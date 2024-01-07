@@ -1,0 +1,684 @@
+{   
+    "blogCard":{
+         "cardData":[
+            {
+                "id":1,
+                "image":"/img/Blog_img01.webp",
+                "title":"CPA USA",
+                "heading":"What will be the total cost of CPA course in India?",
+                "path": "/blogs/What-will-be-the-total-cost-of-CPA-course-in-India?",
+                "subtitle":"Simandhar Education | October 4, 2021"
+            },
+            {
+                "id":2,
+                "image":"/img/Blog_img02.webp",
+                "title":"CPA USA",
+                "heading":"What is the scope for US CPA in India?",
+                "path": "/blogs/what-is-the-scope-for-us-cpa-in-india",
+                "subtitle":"Simandhar Education | September 22, 2021"
+            },
+            {
+                "id":3,
+                "image":"/img/Blog_img03.webp",
+                "title":"CPA USA",
+                "heading":"US CPA Exam in India Now Permanent | US CPA Evolution – 2024",
+                "path": "/blogs/us-cpa-exam-in-india-now-permanent-%7C-us-cpa-evolution-–-2024",
+                "subtitle":"Simandhar Education | July 12, 2021"
+            }
+         ]   
+},
+    "cpaBlogCard": {
+        "mainheading": "CPA USA",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "CPA USA | ",
+                "smallheading": "JANUARY 20, 2023",
+                "subheading": "The CPA Evolution 2024 and the BEC will be replaced by?",
+                "description": "With a changing population, competency requirements, and the declining rate of accounting aspirants, the accounting and finance scenario is changing. To address this ongoing issue, over 1200 accounting forums and professionals worldwide proposed introducing a CPA Evolution 2024, which would result in adaptability and transformation in the CPA course, CPA exam structure, CPA license framework, CPA salary package, and demand.",
+                "readmore": "../the-cpa-evolution-2024-and-the-bec-will-be-replaced-by",
+                "img": "",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 2,
+                "spanheading": "CPA USA | ",
+                "smallheading": "DECEMBER 29, 2022",
+                "subheading": "US CPA Exams Score Release Dates – 2023",
+                "description": "The US CPA: What is it? The US Certified Public Accountants (US CPA) credential is given to individuals who have passed the US CPA exam, administered by the American Institute of Certified Public Accountants (AICPA). To become a US CPA, candidates must meet eligibility criteria and have the required experience. The designation can establish professional standards in the finance and accounting sectors.  When can I expect to get my US CPA exam scores?  Candidates might…",
+                "readmore": "../us-cpa-exams-score-release-dates-2023",
+                "img": "/img/Blog77.png",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 3,
+                "spanheading": "ACCOUNTING | ",
+                "smallheading": "DECEMBER 22, 2022",
+                "subheading": "CPA Exam : 2024 will be a game changer!!",
+                "description": "The CPA Evolution Initiative has announced a transition policy for the 2024 CPA exam. There has been a lot of discussion about the evolution of CPAs. Let’s take a closer look at what it means:  A survey of over 1200 accounting department chairs asks if data analytics, IT auditing, and cyber security are taught in their accounting programs. According to the gap analysis results, 64% of schools teach data analytics, 40% teach predictive analysis, 23%…",
+                "readmore": "../evolution-of-cpa-exam-2024",
+                "img": "/img/microsoftteams-image-2.webp",
+                "path":"../category/accounting"
+            },
+            {
+                "id": 4,
+                "spanheading": "CPA USA | ",
+                "smallheading": "OCTOBER 13, 2022",
+                "subheading": "7 CPA tips by Dhruv Patel,Winner of Elijah Watt sells Award 2022 US CPA exam.(Simandhar US CPA Alumni)",
+                "description": "Dhruv Patel (Simandhar US CPA Alumni), Elijah Watt Sells award winner:- Dhruv Patel (Simandhar US CPA Alumni) is among the winners of the 2022 Elijah Watt sells award, one of the most notable certified public accountant exam honors in the country. 7 Study tips for the US CPA exam from him:- 1. For a non-qualified CA Simandhar Lectures is the best option. Qualified CA can go with Becker for pointed lectures and definitely with Simandhar…",
+                "readmore": "../7-study-tips-from-dhruv-patel-elijah-watt-sells-award-winner-2022",
+                "img": "/img/dhruv-Patel.webp",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 5,
+                "spanheading": "CPA USA | ",
+                "smallheading": " AUGUST 10, 2022",
+                "subheading": "CPA Results – Check your CPA Score",
+                "description": "NASBA has introduced a new method for CPA candidates to check and access information about the Uniform CPA Exam. The new method implemented on May 31, 2022, requires CPA candidates to log into their Gateway (SSO) accounts to see their CPA scores. Apart from checking the scores, CPA candidates can get all the information related to their NASBA applications from a single and secure portal. NASBA has termed this portal as NASBA Application Dashboard.   To…",
+                "readmore": "../cpa-results-check-your-cpa-score",
+                "img": "/img/CPAResults–CheckyourCPAScore.webp",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 6,
+                "spanheading": "CPA USA | ",
+                "smallheading": " JULY 19, 2022",
+                "subheading": "Are you aware of US CPA Exam changes from 2024?",
+                "description": "US CPA is one of the most lucrative career options in the accounting field. The global demand for CPAs has increased exponentially over the last few years. Parallelly, the roles and responsibilities of CPAs have also varied in accordance with the ever-changing business landscape. The advent of digitization and the implementation of new technologies have revolutionized the finance and accounting industry. To ensure that CPAs are updated and competent with the technology-driven business landscape, AICPA has introduced…",
+                "readmore": "../are-you-aware-of-us-cpa-exam-changes-from-2024",
+                "img": "/img/Areyou_aware_of_US_CPA_Exam_changes.webp",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 7,
+                "spanheading": "CPA USA | ",
+                "smallheading": " MAY 28, 2022",
+                "subheading": "How can I become a US CPA from India 2022?",
+                "description": "US CPA has become one of the most in-demand careers in the accounting field. With global recognition, anyone across the world can pursue a US CPA. The biggest motivation that pushed many accounting aspirants to take up US CPA Course is that you can prepare and attend the exam from anywhere. You don’t have to be a resident of the US. However, you can work for US companies that will pay you a handsome amount.  …",
+                "readmore": "../how-can-i-become-a-us-cpa-from-india-2022",
+                "img": "/img/HowcanIbecomeaUSCPAfromIndia2022.webp",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 8,
+                "spanheading": "CPA USA | ",
+                "smallheading": " MAY 21, 2022",
+                "subheading": "Simandhar CPA student earns Prestigious Elijah Watt sells Award for CPA exam performance",
+                "description": "Kavneet Hanspal (Simandhar CPA Alumni) is among 57 winners of the 2021 Elijah Watt sells award, one of the most notable certified public accountant exam honors in the country. Nearly 72,000 individuals sat for the CPA exam in 2021. CPA Candidates must have a cumulative average score above 95.50 across all four sections of the uniform CPA Exam to receive the award, as well as pass all four sections of the exam on their first…",
+                "readmore": "../simandhar-cpa-student-earns-prestigious-elijah-watt-sells-award-for-cpa-exam-performance",
+                "img": "/img/KavneetHanspalBlog.webp",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 9,
+                "spanheading": "CPA USA | ",
+                "smallheading": " APRIL 4, 2022",
+                "subheading": "6 Things Simandhar Does to help CPA Students Achieve 98 Score",
+                "description": "CPA is regarded as one of the toughest exams not just in the accounting field, but across all the fields. The CPA exam has 4 parts/subjects – BEC (Business Environment Concepts), AUD (Auditing and Attestation), FAR (Financial Accounting and Reporting), and REG (Regulations). You need to score 75% in each subject to clear the exam. A CPA aspirant will have 18 months to clear all the exams from the time he appeared for the first…",
+                "readmore": "../6-things-simandhar-does-to-help-cpa-students-achieve-98-score",
+                "img": "/img/6_Things_Simandhar_Does_to_help_CPA.webp",
+                "path":"../category/cpa"
+            },
+            {
+                "id": 10,
+                "spanheading": "CPA USA | ",
+                "smallheading": " MARCH 3, 2022",
+                "subheading": "How to Become a Certified Public Accountant in 2022?",
+                "description": "CPA full form is Certified Public Accountant in the accounting profession. It is a professional accountant license in the United States that has been certified by a state board of accountancy. Becoming a CPA is a sign of credibility and skill in accounting.  CPAs have many job opportunities in the financial sector. They can operate as dependable financial counselors, business consultants, accountants, auditors, and tax specialists because of their comprehensive understanding of accounting and ethics.…",
+                "readmore": "../how-to-become-a-certified-public-accountant-in-2022",
+                "img": "/img/How_to_Become_a_CPA.webp",
+                "path":"../category/cpa"
+            }
+        ]
+    },
+
+    "cmaBlogCard": {
+        "mainheading": "CMA USA",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "CMA TIPS | ",
+                "smallheading": " FEBRUARY 8, 2023",
+                "subheading": "US CMA Vs Indian CMA ",
+                "description": "A global standard for management accountants and financial professionals looking to advance their career opportunities in less than a year is the CMA, or Certified Management Accountants, program. The US CMA course is the top qualification in the subject of accounting and management, and it is offered by the Institute of Management Accountants (IMA) in almost 150 countries. The Institute of Cost Accountants of India oversees the CMA program in India.  The CMA program offered…",
+                "readmore": "../us-cma-vs-indian-cma",
+                "img": "",
+                "path":"../category/student-corner/cma"
+            },
+            {
+                "id": 2,
+                "spanheading": "CMA USA | ",
+                "smallheading": "FEBRUARY 9, 2022",
+                "subheading": "Multiple-Choice Questions on the CMA Exam",
+                "description": "To pass the CMA Exam, you must master multiple-choice questions (MCQs) as they carry a major weightage of marks. You will need to devote a significant amount of your time to preparing for MCQs. Simandhar Education prepares study materials and provides guidance to students that helps them clear MCQs easily.   CMA Multiple-Choice Question Format and Number  The CMA test is divided into two parts:  Financial Reporting, Planning, Performance, and Control  Making Financial Decisions Each section…",
+                "readmore": "../multiple-choice-questions-on-the-cma-exam",
+                "img": "/img/blog_details/mcq01.png",
+                "path":"../category/cma"
+            },
+            {
+                "id": 3,
+                "spanheading": "CMA USA | ",
+                "smallheading": "JANUARY 28, 2022",
+                "subheading": "What Is the Definition of a Certified Management Accountant (CMA)?",
+                "description": "Certified Management Accountant (CMA) is a professional designation that demonstrates expertise in financial accounting and strategic management. CMAs have earned this accreditation and are suitable for several responsibilities ranging from financial Controller to chief financial officer (CFO). The Role of Certified Management Accountants (CMAs)  Certified Management Accountant (CMA) credential expands on financial accounting expertise by adding management abilities that help make strategic company choices based on economic data.  Certified management accountants (CMAs) frequently go above and beyond…",
+                "readmore": "../what-is-the-definition-of-a-certified-management-accountant-cma",
+                "img": "/img/blog_details/management_accountant.jpg",
+                "path":"../category/cma"
+            },
+            {
+                "id": 4,
+                "spanheading": "CMA USA | ",
+                "smallheading": "JANUARY 5, 2022",
+                "subheading": "Remote Testing For US CMA Exam",
+                "description": "With the new current surge of Covid and Omicron cases across the globe, the pandemic has made its point that it is here to stay. Considering the situation, ICMA has come up with a remote testing option initiative. This decision will significantly change the IMA’s future as US CMA Course are high in demand globally. Let’s get you through all the new developments IMA has brought us.    In the January/February 2022 examination session, ICMA is happy to provide a brand-new…",
+                "readmore": "../remote-testing-for-us-cma-exam",
+                "img": "/img/Remote_Testing_For_US_CMA_Exam.webp",
+                "path":"../category/cma"
+            },
+            {
+                "id": 5,
+                "spanheading": "CMA USA | ",
+                "smallheading": "DECEMBER 15, 2021",
+                "subheading": "A Comprehensive Guide to US CMA Syllabus 2022",
+                "description": "US CMA Syllabus The Institute of Management Accountants (IMA) USA offers the CMA USA, an advanced professional program in finance.   There is a total of two exams:   The title of the paper  Part 1: Financial reporting, planning, performance, and control are all aspects of financial management.   Part 2: Making Financial Decisions   The time allotted for the exam is four hours. There are two.  Exam window: 100 multiple-choice questions  in  three hours, plus two essay questions in one hour  Achieving a…",
+                "readmore": "../a-comprehensive-guide-to-us-cma-syllabus",
+                "img": "/img/A_Comprehensive_Guide_to_US_CMA_Syllabus_2022.webp",
+                "path":"../category/cma"
+            },
+            {
+                "id": 6,
+                "spanheading": "CMA USA | ",
+                "smallheading": "NOVEMBER 25, 2021",
+                "subheading": "What are the subjects of US CMA Exam?",
+                "description": "The US CMA course is gaining popularity, especially among those who want to start their careers in management accounting and Finance. For this reason, the CMA course is designed to evaluate critical accounting and financial management skills relevant to success in a business environment. Therefore, choosing a CMA as a career option is a great idea. If you are curious about the US CMA course details, Simandhar Education is here to help you provide more…",
+                "readmore": "../what-are-the-subjects-of-us-cma-exam",
+                "img": "/img/What_are_the_subjects_of_US_CMA_Exam.webp",
+                "path":"../category/cma"
+            },
+            {
+                "id": 7,
+                "spanheading": "CMA USA | ",
+                "smallheading": "NOVEMBER 24, 2021",
+                "subheading": "Structure of the US CMA Exam",
+                "description": "Often, it takes a lot of time and effort to achieve accounting certification, no matter which certificate you go for. However, of various accounting certifications, Certified Management Accountant or CMA is the highest level of accreditation in managing accounting and finance professionals. US CMA: Overview The CMA certification is awarded by the Institute of Management Accountants (IMA), USA. Meeting the CMA eligibility requirements and adding this sought-after credential to your name opens multiple opportunities. US…",
+                "readmore": "../structure-of-the-us-cma-exam",
+                "img": "/img/Structure_of_the_US_CMA_Exam.webp",
+                "path":"../category/cma"
+            },
+            {
+                "id": 8,
+                "spanheading": "CMA USA | ",
+                "smallheading": "NOVEMBER 22, 2021",
+                "subheading": "What is the Eligibility criteria for a US CMA in India?",
+                "description": "The CMA certification acquired from leading countries like the USA will help professionals gain global exposure as well as international recognition. Are you aiming to achieve a specialized accreditation in Accountancy? This blog will provide you with the details of US CMA in India, its eligibility, career options, and much more! Certified Management Accountant or CMA is the highest standard-level certified course required for managing accounting and financial professionals. The Institute of Management Accountants (IMA) awards…",
+                "readmore": "../what-is-the-eligibility-criteria-for-a-us-cma-in-india",
+                "img": "/img/What_is_the_Eligibility_criteria_for_a_US_CMA_in_India.webp",
+                "path":"../category/cma"
+            },
+            {
+                "id": 9,
+                "spanheading": "CMA USA | ",
+                "smallheading": " NOVEMBER 10, 2021",
+                "subheading": "Is the CMA Course appropriate for working professionals?",
+                "description": "Being a working professional, am I suitable for the CMA course? This is a question that many working professionals have been asking themselves. The answer is definitely, YES. The CMA, which stands for Certified Management Accountant, is a certificate course designed for working adults. It’s not a degree program or full-time study, but rather a part-time study that allows people to fit the course into their busy schedules. The US CMA course is suitable for…",
+                "readmore": "../is-the-cma-course-appropriate-for-working-professionals",
+                "img": "/img/the_CMA_Course_appropriate_for_working.webp",
+                "path":"../category/cma"
+            },
+            {
+                "id": 10,
+                "spanheading": "CMA USA | ",
+                "smallheading": " OCTOBER 29, 2021",
+                "subheading": "5 Career Options after qualifying US CMA",
+                "description": "In recent times, courses are being judged based on their credibility and recognition because it is the era of value-based education. So, when you consider a CMA course, you should also be aware of the career options after CMA.  Certified Management Accountant or CMA is a standard-level certified course required for managing accounting and financial professionals. The CMA course is administered and awarded by the Institute of Management Accountants (IMA), USA. It gives the professionals…",
+                "readmore": "../5-career-options-after-qualifying-us-cma",
+                "img": "/img/5_Career_Options_after_qualifying_US_CMA.webp",
+                "path":"../category/cma"
+            }
+        ]
+    },
+    "ifrsBlogCard": {
+        "mainheading": "IFRS",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "IFRS | ",
+                "smallheading": "SEPTEMBER 16, 2020",
+                "subheading": "How to get certified in International Financial Reporting Standards (IFRS)?",
+                "description": "International Financial Reporting Standards, commonly called IFRS, are accounting standards that are issued by the IFRS Foundation. The IFRS course offered by the Association of Chartered Certified Accountants (ACCA) is one of the most appreciated and respectable qualifications across the globe.  The diploma course by ACCA is designed mainly to develop one’s knowledge and understanding of IFRS.  The other main objectives of this course are: To apply relevant financial reporting standards for the key elements…",
+                "readmore": "../how-to-get-certified-in-international-financial-reporting-standards-ifrs",
+                "img": "/img/ifrs_img01.jpg",
+                "path":"../category/ifrs"
+            },
+            {
+                "id": 2,
+                "spanheading": "IFRS | ",
+                "smallheading": "AUGUST 14, 2020",
+                "subheading": "Career Scope of International Financial Reporting Standards Certification",
+                "description": "The profession of finance is emerging as a growing industry all over the world. The General Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS) are gaining momentum across many countries. Apart from normal specialization in accounting and finance, companies prefer to recruit those who have expertise in IFRS. There’s a huge demand for IFRS professionals.  Accounting standards are a common set of principles and procedures that define the basis of financial accounting policies…",
+                "readmore": "../career-scope-of-international-financial-reporting-standards-certification",
+                "img": "/img/Career-Scope-of-IFRS-Certification.webp",
+                "path":"../category/ifrs"
+            },
+            {
+                "id": 3,
+                "spanheading": "IFRS | ",
+                "smallheading": "JULY 20, 2020",
+                "subheading": "3 BIGGEST MYTHS ON IFRS & WHAT YOU CAN DO ABOUT THEM",
+                "description": "I always hear that all the time! Many of my readers and subscribers have written to me about their frustration with IFRS because they find it boring, boring and difficult. There are 3 biggest myths about IFRS that people believe. And they hold them back and sometimes they make them fail. Do you believe them too? And if you are, don’t worry. It is Easy to hit once you know what it is. Myth 1:…",
+                "readmore": "../3-biggest-myths-on-ifrs-and-what-you-can-do-about-them",
+                "img": "/img/ifrs_img03.jpg",
+                "path":"../category/ifrs"
+            }
+        ]
+    },
+    "eaBlogCard": {
+        "mainheading": "EA (ENROLLED AGENT)",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": "FEBRUARY 3, 2023",
+                "subheading": "6 Tips to crack the Enrolled Agent Exam",
+                "description": "The Internal Revenue Service (IRS) employs Prometric to conduct the three-part EA Exam, also known as the Special Enrollment Examination (SEE). You get 3.5 hours to complete each part’s 100 questions, which are taken as independent exams. The IRS Special Enrollment Exam (SEE) is the simplest exam that grants you unrestricted practice opportunities with the IRS. Now let’s understand how to crack the Enrolled Agent exam in the least possible time. Firstly, you may maximise…",
+                "readmore": "../6-tips-to-crack-the-enrolled-agent-exam",
+                "img": "",
+                "path":"../category/ea"
+            },
+            {
+                "id": 2,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": "DECEMBER 21, 2022",
+                "subheading": "Crack Enrolled Agent Exam in 90 days",
+                "description": "Yes, clearing the EA Exam (Enrolled Agent Exam)in 90 days is possible for anyone having basic knowledge of accounting and finance, but it passing depends on 2 things: –  1: Availability of slots with Prometric.  2: Your hard work.   In a good case if slots are available in Feb and March and you can start studying from the Jan 1st then your ideal plan should look like this-   Deciding which part of Enrolled Agent, you…",
+                "readmore": "../crack-enrolled-agent-exam-in-90-days",                
+                "img": "/img/Crack-ea-in-90-days-blog.png",
+                "path":"../category/ea"
+            },
+            {
+                "id": 3,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": "DECEMBER 9, 2021",
+                "subheading": "Ultimate Salary Guide to Enroll Agent in 2022-2023",
+                "description": "Are you thinking about becoming an Enrolled Agent but want to know what kind of pay you could expect? We comprehend; before you bounce in. Investigate our Enrolled Agent Compensation Guide underneath to understand what pay range you may be checking out. Do you know what it is Enroll Agent? The Enrolled Agent certificate is a nationally recognized certification for tax professionals issued by the Internal Revenue Service (IRS). Obtaining a PTIN Personal Tax Identification…",
+                "readmore": "../ultimate-salary-guide-to-enroll-agent-in-2022-2023",
+                "img": "/img/Blog-12.png",
+                "path":"../category/ea"
+            },
+            {
+                "id": 4,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": "NOVEMBER 6, 2021",
+                "subheading": "Scope of Enrolled Agent (EA)",
+                "description": "Enrolled Agent: Overview An Enrolled Agent (EA) is the only federally licensed tax practitioner who is an expert in US taxation. As a result, these Enrolled agents can represent taxpayers before the IRS, Internal Revenue Service, tax issues, including audits (inspections), collections, and tax appeals.  Enrolled Agent is a standard credential by the Internal Revenue Service and is recognized across all 50 US states. They will have unlimited rights to advise and prepare tax returns…",
+                "readmore": "../scope-of-enrolled-agent-ea",
+                "img": "/img/DEC-80.jpg",
+                "path":"../category/ea"
+            },
+            {
+                "id": 5,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": "APRIL 12, 2021",
+                "subheading": "EA Exam Results Update – 2021",
+                "description": "Latest Update on EA Exam Results: Candidates who are going to take Special Enrollment Exam (i.e., EA Exam) between 1st May 2021 and 1st August 2021 will not receive the scores immediately upon completion of the exam.  It is because during this period, the data will be gathered and analyzed in order to establish the passing score. A score report will be emailed to the candidate for tests taken during this period from 5th August…",
+                "readmore": "../ea-exam-results-update-2021",
+                "img": "/img/EA-Exam-Results.webp",
+                "path":"../category/ea"
+            },
+            {
+                "id": 6,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": "MARCH 10, 2021",
+                "subheading": "Step by Step Process of Enrolled Agent (EA) Course 2022-2023",
+                "description": "Enrolled Agent is a designation that enhances the careers of professionals and accountants who intend to specialize in tax.  Let’s know the step-by-step process of becoming an Enrolled Agent (EA). Understand the Enrolled Agent Designation Know the benefits of becoming an Enrolled Agent Obtain PTIN (Preparer Tax Identification Number) Schedule your test appointments Apply for enrollment Pass suitability test Understand the Enrolled Agent Designation: The word ‘Enrolled’ is defined as to be licensed by the…",
+                "readmore": "../step-by-step-process-of-enrolled-agent-ea-course-2022-2023",
+                "img": "/img/DEC-81.webp",
+                "path":"../category/ea"
+            },
+            {
+                "id": 7,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": " OCTOBER 8, 2020",
+                "subheading": "Breaking News: EA Exam has rescheduled from November 2020 to February 2021",
+                "description": "Due to Covid-19, many exams were postponed. It’s time for the EA exam – Special Enrollment Exam. It’s breaking news for all the Enrolled Agent (EA) aspirants. Here are all the required details regarding the rescheduling of the EA exam. As per the schedule, the EA exam was previously supposed to happen between 2nd to 16th November 2020. But, Internal Revenue Service has rescheduled the exam from 2-16 November 2020 to 1-15 February 2021. This…",
+                "readmore": "../breaking-news-ea-exam-has-rescheduled-from-november-2020-to-february-2021",
+                "img": "/img/Blog-11.webp",
+                "path":"../category/ea"
+            },
+            {
+                "id": 8,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": " SEPTEMBER 16, 2020",
+                "subheading": "What is Enrolled Agent (EA) about?",
+                "description": "An Enrolled Agent (EA) is the only federally licensed tax practitioner who specializes in all areas of taxation. Enrolled Agents represent taxpayers before the Internal Revenue Service (IRS) for tax issues including audits, collections, and appeals. EA is the highest credential awarded by the IRS and is also licensed by the IRS. The EA credential is recognized across all 50 U.S. states. Enrolled Agents are required in small and large public accounting firms, law firms,…",
+                "readmore": "../what-is-enrolled-agent",
+                "img": "/img/thumbnail.webp",
+                "path":"../category/ea"
+            },
+            {
+                "id": 9,
+                "spanheading": "EA (ENROLLED AGENT) | ",
+                "smallheading": " AUGUST 26, 2020",
+                "subheading": "Enrolled Agent Exam Structure",
+                "description": "The EA exam precisely also known as SEE (Special Enrollment Examination) is administered by Prometric on behalf of IRS (Internal Revenue Service). The exam consists of three parts, each part has 100 questions, and you have to answer all the questions in 3.5 hours. EA Part: 1 – Individuals: The first part of the EA exam covers 5 sections: Preliminary Work and Taxpayer Data (15%) Specialized Returns for Individuals (15%) Taxation and Advice (20%) Deduction…",
+                "readmore": "../enrolled-agent-exam-structure",
+                "img": "/img/DEC-82.webp",
+                "path":"../category/ea"
+            }
+        ]
+    },
+    "ciaBlogCard": {
+        "mainheading": "CIA",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "CIA | ",
+                "smallheading": "MARCH 12, 2021",
+                "subheading": "Step by Step Process of Certified Internal Auditor (CIA)",
+                "description": "What is a CIA qualification? CIA (Certified Internal Auditor) is a certification offered to the accountants who conduct internal audits. Becoming a CIA will help the candidate enhance his auditing career to the next level. It’s a designation conferred by IIA (Institute of Internal Auditors). CIA’s work in the audit department of financial institutions, corporations, and government agencies.  How do I earn CIA Certification? Below are the steps to earn CIA certification. Fulfill  sizes='100vw' the Educational…",
+                "readmore": "../step-by-step-process-of-certified-internal-auditor-cia",
+                "img": "/img/cia_blog_banner01.webp",
+                "path":"../category/cia"
+            },
+            {
+                "id": 2,
+                "spanheading": "CIA | ",
+                "smallheading": "NOVEMBER 23, 2020",
+                "subheading": "Career scope of CIA certification",
+                "description": "Certified Internal Auditor (CIA): CIA (Certified Internal Auditor) is a certification offered to the accountants who conduct internal audits. Becoming a CIA will help the candidate enhance his auditing career to the next level. It’s a designation conferred by IIA (Institute of Internal Auditors). CIAs work in the audit department of financial institutions, corporations and government agencies.  Career Scope of CIA Certification: Are you a professional accountant thinking of internal auditing as the best career?…",
+                "readmore": "../career-scope-of-cia-certification",
+                "img": "/img/cia_blog_banner02.webp",
+                "path":"../category/cia"
+            },
+            {
+                "id": 3,
+                "spanheading": "CIA | ",
+                "smallheading": "SEPTEMBER 16, 2020",
+                "subheading": "What is Certified Internal Auditor (CIA) about?",
+                "description": "CIA (Certified Internal Auditor) is a certification offered to the accountants who conduct internal audits. Becoming a CIA will help the candidate enhance his auditing career to the next level. It’s a designation conferred by IIA (Institute of Internal Auditors). CIA works in the audit department of financial institutions, corporations, and government agencies.  Educational Requirements: CIA aspirants must meet the following educational requirements to sit for the CIA exam.  The candidate must graduate with a…",
+                "readmore": "../what-is-certified-internal-auditor-cia-about",
+                "img": "/img/cia_blog_banner03.webp",
+                "path":"../category/cia"
+            }
+        ]
+    },
+    "accountingBlog": {
+        "mainheading": "Accounting",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "ACCOUNTING | ",
+                "smallheading": "DECEMBER 22, 2022",
+                "subheading": "CPA Exam : 2024 will be a game changer!!",
+                "description": "The CPA Evolution Initiative has announced a transition policy for the 2024 CPA exam. There has been a lot of discussion about the evolution of CPAs. Let’s take a closer look at what it means:  A survey of over 1200 accounting department chairs asks if data analytics, IT auditing, and cyber security are taught in their accounting programs. According to the gap analysis results, 64% of schools teach data analytics, 40% teach predictive analysis, 23%…",
+                "readmore": "../evolution-of-cpa-exam-2024",
+                "img": "/img/microsoftteams-image-2.webp",
+                "path":"../category/accounting"
+            }
+        ]
+    },
+    "cmaTips": {
+        "mainheading": "CMA Tips",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "CMA TIPS | ",
+                "smallheading": " FEBRUARY 8, 2023",
+                "subheading": "US CMA Vs Indian CMA ",
+                "description": "A global standard for management accountants and financial professionals looking to advance their career opportunities in less than a year is the CMA, or Certified Management Accountants, program. The US CMA course is the top qualification in the subject of accounting and management, and it is offered by the Institute of Management Accountants (IMA) in almost 150 countries. The Institute of Cost Accountants of India oversees the CMA program in India.  The CMA program offered…",
+                "readmore": "../../us-cma-vs-indian-cma",
+                "img": "",
+                "path":"../student-corner/cma"
+            },
+            {
+                "id": 2,
+                "spanheading": "CMA TIPS | ",
+                "smallheading": " SEPTEMBER 24, 2020",
+                "subheading": "My CMA journey with Simandhar",
+                "description": "My journey of pursuing the US CMA has been incredible till now. I still remember the day I met Sripal sir for his suggestion on whether I should join CMA or take up other professional courses in finance. After listening to me patiently and considering all my concerns he suggested that I take up this course. I opted for CMA because of two major reasons. First one being that the course meets all the international…",
+                "readmore": "../../my-cma-journey-with-simandhar",
+                "img": "/img/blog_details/My-CMA-journey-with-Simandhar-1024x626.webp",
+                "path":"../student-corner/cma"
+            },
+            {
+                "id": 3,
+                "spanheading": "CMA TIPS | ",
+                "smallheading": "JULY 26, 2021",
+                "subheading": "Study Tips and Strategies by Satyam Jain – US CMA Alumni",
+                "description": "Satyam Jain  – Simandhar’s US CMA alumni has shared his journey to ace the US CMA exams and provided a strategy to make the preparations easy. Hello professional,  Hope you all are fine and energetic for your studies. It’s my pleasure to give you some suggestions. Firstly I would like to talk about Simandhar Education Institute. My personal request, do not miss a single class. Don’t be a fast learner, rather be a smart learner.…",
+                "readmore": "../../study-tips-and-strategies-by-satyam-jain-us-cma-alumni",
+                "img": "/img/blog_details/Tips-and-Strategies-by-Satyam-Jain-US-CMA-Alumni.jpg",
+                "path":"../student-corner/cma"
+            }
+        ]
+    },
+        "cpaTips": {
+        "mainheading": "CPA Tips",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "ACCOUNTING | ",
+                "smallheading": "DECEMBER 22, 2022",
+                "subheading": "CPA Exam : 2024 will be a game changer!!",
+                "description": "The CPA Evolution Initiative has announced a transition policy for the 2024 CPA exam. There has been a lot of discussion about the evolution of CPAs. Let’s take a closer look at what it means:  A survey of over 1200 accounting department chairs asks if data analytics, IT auditing, and cyber security are taught in their accounting programs. According to the gap analysis results, 64% of schools teach data analytics, 40% teach predictive analysis, 23%…",
+                "readmore": "../../evolution-of-cpa-exam-2024",
+                "img": "/img/microsoftteams-image-2.webp",
+                "path":"../accounting"
+            },
+            {
+                "id": 2,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "JULY 7, 2021",
+                "subheading": "Vipin’s Journey to ace US CPA – BEC Exam",
+                "description": "Vipin – Simandhar’s US CPA aspirant has shared his journey to ace the BEC exam and provided a strategy to make the preparations easy. I am sharing my journey and the things I have done during my BEC preparation. Being US CMA and having good experience in core accounting, I did have a good grip on the general and basic concepts, so my focus was on things that were not covered previously in my study…",
+                "readmore": "../../vipins-journey-to-ace-us-cpa-bec-exam",
+                "img": "/img/Vipins-Journey.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 3,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "JULY 6, 2021",
+                "subheading": "CPA FAR Exam Preparation Stategy | FAR CPA Exam Tips by Prachet Reddy",
+                "description": "I would like to share my preparation strategy for the Financial Reporting(FAR) section of the CPA exam. My score of 94 has been the consequence of the study environment that has been fostered by you and your team, and I will ever be thankful for that. Disclaimer(for the students): I have committed full time for my examination, and I do understand that working professionals may find it relatively challenging to pay heed to some of…",
+                "readmore": "../../cpa-far-exam-preparation-stategy-far-cpa-exam-tips-by-prachet-reddy",
+                "img": "/img/CPA-FAR-Exam-Preparation.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 4,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "MARCH 20, 2021",
+                "subheading": "How Abhishek scored 96 in AUDIT?",
+                "description": "We are delighted to share that our student Mr.Abhishek (CA, CPA Aspirant) has scored 96 in the CPA-Audit exam. He shared about ‘How he got 96 in the Audit exam?’ Let’s move right into his experience. Hi, I’m Abhishek. I’m a qualified CA and now pursuing the CPA Course from Simandhar Education. All – my two cents on CPA AUD preparation. I hope you all find it useful: 1) First and foremost may be rhetoric,…",
+                "readmore": "../../how-abhishek-scored-96-in-audit",
+                "img": "/img/blog_details/How-Abhishek-scored-96-in-AUDIT-805x452.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 5,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "NOVEMBER 5, 2020",
+                "subheading": "In Conversation with Legendary Auditor – Shailesh Haribhakti",
+                "description": "Mr. Shailesh Haribhakti, one of the most renowned CA’s in the current times emerged as a national scholar in 1971 after passing the Indian School Certificate exam with a top rank in the country.He was offered a scholarship at Cambridge but he declined it. In 1950, Haribhakti & Co was founded by his father who himself is the most tenured living and practicing CA at the age of 91 and was a past President of…",
+                "readmore": "../../in-conversation-with-legendary-auditor-shailesh-haribhakti",
+                "img": "/img/blog_details/In-Conversation-with-Legendary-Auditor-Shailesh-Haribhakti-768x549.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 6,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "OCTOBER 23, 2020",
+                "subheading": "CPA-FAR exam? | Get the best study tips from Wasim",
+                "description": "This is Wasim; please find my strategy to prepare for CPA-FAR exam given below. – Don’t try to learn FAR like remembering theory, understand the concepts. – Finishing FAR in 3 months if possible, I finished it in 3 months. You need to study for 2 days of the week-ends and daily for at least 3 hours which is minimum (For working candidates). – Give 4 mini-tests per week for the modules you already completed…",
+                "readmore": "../../cpa-far-exam-get-the-best-study-tips-from-wasim",
+                "img": "/img/blog_details/How-can-one-prepare-for-the-CPA-FAR-exam-Get-the-best-study-tips-from-Wasim-1024x626.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 7,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "OCTOBER 23, 2020",
+                "subheading": "My Strategy for Studying CPA Regulation (REG) Section: Sai Likkitha",
+                "description": "My CPA Regulation journey: For me clearing CPA REG was the toughest thing. After failing twice in the regulation part I didn’t lose my hope but instead I started preparing again from scratch. There were lots of disturbances while preparing for the exam but consistency and determination to pass the exam has indeed helped me clear the exam. Everyone has their own strategies and plans for studying and clearing exams. Here are few things that…",
+                "readmore": "../../my-strategy-for-studying-cpa-regulation-reg-section-sai-likkitha",
+                "img": "/img/blog_details/My-Strategy-for-Studying-CPA-Regulation-REG-Section-Sai-Likkitha-1024x626.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 8,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "OCTOBER 23, 2020",
+                "subheading": "Get to know the CPA-BEC Exam Study Strategies from Leena Varanjani",
+                "description": "CPA-BEC Exam STRATEGY Everyone has a different style of learning. There is a saying that your mind imitates what you see and this is what I am, a visual learner. I attended live classes of BEC at Simandhar education and then I went through Becker’s lecture. It helped me understand concepts better.  Becker’s skills practice helped me a lot during my studies. They explained the topic in a very brief and crisp form, which helped…",
+                "readmore": "../../get-to-know-the-cpa-bec-exam-study-strategies-from-leena-varanjani",
+                "img": "/img/blog_details/Get-to-know-the-CPA-BEC-Exam-Study-Strategies-from-Leena-Varanjani-1024x626.webp",
+                "path":"../student-corner/cpa"
+            },
+            {
+                "id": 9,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "OCTOBER 23, 2020",
+                "subheading": "My CPA-FAR Exam Preparation Strategy – Namrata Jain",
+                "description": "CPA-FAR Exam: PRACTICE! PRACTICE! Practice was the main key in clearing my FAR Exam with 83. Followed almost the same strategy which I made during REG preparation. Conceptual clarity is must to crack any exam. This can be achieved through continuous practice and revising the chapters. Revising once and twice was not sufficient for me. So I kept on revising it until I am thorough with the concept. Because every time you revise, you come…",
+                "readmore": "../../my-cpa-far-exam-preparation-strategy-namrata-jain",
+                "img": "/img/blog_details/My-CPA-FAR-Exam-Preparation-Strategy-Namrata-Jain-1024x626.webp",
+                "path":"../student-corner/cpa"
+            }
+        ]
+    },
+    "studentCornBlogCard": {
+        "mainheading": "STUDENT CORNER",
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "CMA TIPS | ",
+                "smallheading": "FEBRUARY 8, 2023",
+                "subheading": "US CMA Vs Indian CMA",
+                "description": "A global standard for management accountants and financial professionals looking to advance their career opportunities in less than a year is the CMA, or Certified Management Accountants, program. The US CMA course is the top qualification in the subject of accounting and management, and it is offered by the Institute of Management Accountants (IMA) in almost 150 countries. The Institute of Cost Accountants of India oversees the CMA program in India.  The CMA program offered…",
+                "readmore": "../us-cma-vs-indian-cma",
+                "img": "",
+                "path":"../category/student-corner/cma"
+            },
+            {
+                "id": 2,
+                "spanheading": "ACCOUNTING | ",
+                "smallheading": "DECEMBER 22, 2022",
+                "subheading": "CPA Exam : 2024 will be a game changer!!",
+                "description": "The CPA Evolution Initiative has announced a transition policy for the 2024 CPA exam. There has been a lot of discussion about the evolution of CPAs. Let’s take a closer look at what it means:  A survey of over 1200 accounting department chairs asks if data analytics, IT auditing, and cyber security are taught in their accounting programs. According to the gap analysis results, 64% of schools teach data analytics, 40% teach predictive analysis, 23%…",
+                "readmore": "../evolution-of-cpa-exam-2024",
+                "img": "/img/microsoftteams-image-2.webp",
+                "path":"../category/accounting"
+            },
+            {
+                "id": 3,
+                "spanheading": "CMA TIPS | ",
+                "smallheading": "JULY 26, 2021",
+                "subheading": "Study Tips and Strategies by Satyam Jain – US CMA Alumni",
+                "description": "Satyam Jain  – Simandhar’s US CMA alumni has shared his journey to ace the US CMA exams and provided a strategy to make the preparations easy. Hello professional,  Hope you all are fine and energetic for your studies. It’s my pleasure to give you some suggestions. Firstly I would like to talk about Simandhar Education Institute. My personal request, do not miss a single class. Don’t be a fast learner, rather be a smart learner.…",
+                "readmore": "../study-tips-and-strategies-by-satyam-jain-us-cma-alumni",
+                "img": "/img/blog_details/Tips-and-Strategies-by-Satyam-Jain-US-CMA-Alumni.jpg",
+                "path":"../category/student-corner/cma"
+            },
+            {
+                "id": 4,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "JULY 7, 2021",
+                "subheading": "Vipin’s Journey to ace US CPA – BEC Exam",
+                "description": "Vipin – Simandhar’s US CPA aspirant has shared his journey to ace the BEC exam and provided a strategy to make the preparations easy. I am sharing my journey and the things I have done during my BEC preparation. Being US CMA and having good experience in core accounting, I did have a good grip on the general and basic concepts, so my focus was on things that were not covered previously in my study…",
+                "readmore": "../vipins-journey-to-ace-us-cpa-bec-exam",
+                "img": "/img/Vipins-Journey.webp",
+                "path":"../category/student-corner/cpa"
+            },
+            {
+                "id": 5,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": " JULY 6, 2021",
+                "subheading": "US CPA Study Strategy of FAR, REG, BEC, AUD by Laxmikant",
+                "description": "First and foremost, if you have decided to pursue this course, 100% determination and consistency are necessary. One cannot pass the exam unless he/she is focused on studies. My study strategy for all four subjects is as follows. I will suggest you appear for the exams in the following pattern only as FAR has interconnection with other subjects. FAR: –  Financial Accounting and Reporting (FAR) is the BEAST. You have to dedicate more time to this…",
+                "readmore": "../us-cpa-study-strategy-of-far-reg-bec-aud-by-laxmikant",
+                "img": "/img/CPA-Study-Strategy.webp",
+                "path":"../category/student-corner/cpa"
+            },
+            {
+                "id": 6,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": " JULY 6, 2021",
+                "subheading": "CPA FAR Exam Preparation Stategy | FAR CPA Exam Tips by Prachet Reddy",
+                "description": "I would like to share my preparation strategy for the Financial Reporting(FAR) section of the CPA exam. My score of 94 has been the consequence of the study environment that has been fostered by you and your team, and I will ever be thankful for that. Disclaimer(for the students): I have committed full time for my examination, and I do understand that working professionals may find it relatively challenging to pay heed to some of…",
+                "readmore": "../cpa-far-exam-preparation-stategy-far-cpa-exam-tips-by-prachet-reddy",
+                "img": "/img/CPA-FAR-Exam-Preparation.webp",
+                "path":"../category/student-corner/cpa"
+            },
+            {
+                "id": 7,
+                "spanheading": "CPA TIPS | ",
+                "smallheading": "  MARCH 20, 2021",
+                "subheading": "How Abhishek scored 96 in AUDIT?",
+                "description": "We are delighted to share that our student Mr.Abhishek (CA, CPA Aspirant) has scored 96 in the CPA-Audit exam. He shared about ‘How he got 96 in the Audit exam?’ Let’s move right into his experience. Hi, I’m Abhishek. I’m a qualified CA and now pursuing the CPA Course from Simandhar Education. All – my two cents on CPA AUD preparation. I hope you all find it useful: 1) First and foremost may be rhetoric,…",
+                "readmore": "../how-abhishek-scored-96-in-audit",
+                "img": "/img/How-Abhishek-scored-96-in-AUDIT.webp",
+                "path":"../category/student-corner/cpa"
+            },
+            {
+                "id": 8,
+                "spanheading": "CMA USA | ",
+                "smallheading": "NOVEMBER 13, 2020",
+                "subheading": "US CMA Exam Part-2 Study Tips by Amrita",
+                "description": "Hi Everyone! I hope you’ve all been keeping well. I recently passed my CMA part-2 exam and I’d like to share my experience and give some pointers which helped me get here. First, I want to wholeheartedly thank the faculty – Sripal sir, Suraj sir, and Amir sir – for all the resources, support, and guidance I’ve been readily provided with. All the resources are given immensely helpful with the preparation for the CMA part…",
+                "readmore": "../us-cma-exam-part-2-study-tips-by-amrita",
+                "img": "/img/DEC-109.webp",
+                "path":"cma"
+            },
+            {
+                "id": 9,
+                "spanheading": "CPA USA | ",
+                "smallheading": " NOVEMBER 12, 2020",
+                "subheading": "She took 9 years, 27 attempts and over $18,000 to pass US CPA |Katrina| US CPA struggle to success",
+                "description": "US CPA Exam: “You never fail until you stop trying” – Albert Einstein. In 2000, I’d just graduated from a University with multiple honors within 3 years and I went to work for my first-choice employer. Life was very good; I was a young person making a great salary with an extremely bright future. My first priority as a tax accountant working for a global firm was to take the CPA course and pass the…",
+                "readmore": "../she-took-9-years-27-attempts-and-over-18000-to-pass-us-cpa-katrinaus-cpa-struggle-to-success",
+                "img": "/img/She-took-9-years.webp",
+                "path":"cpa"
+            },
+            {
+                "id": 10,
+                "spanheading": " STUDENT CORNER | ",                
+                "smallheading": " NOVEMBER 7, 2020",
+                "subheading": "From engineer to President & CFO – Reliance Jio, had a victorious journey indeed",
+                "description": "Set up stiff targets for executing a job and work relentlessly to exceed your own expectation. Make winning a habit.’ – says Mr. Rajneesh Jain, President & CFO – Reliance Jio. Mr. Rajneesh Jain is a Cost & Management Accountant (CMA). He is an accomplished finance veteran with over 30 years of professional experience in the industry. He has worked with a number of established organizations previously namely RCom, Indo Rama Synthetics, Ispat Industries, and…",
+                "readmore": "../from-engineer-to-president-cfo-reliance-jio-had-a-victorious-journey-indeed",
+                "img": "/img/rj_picture.webp",
+                "path":"student-corner"
+            }
+        ]
+    },
+    "studentalumni": {
+        "boxes": [
+            {
+                "id": 1,
+                "spanheading": "CMA Tips | ",
+                "smallheading": "February 8, 2023",
+                "subheading": "US CMA Vs Indian CMA Blog Listing",
+                "description": "A global standard for management accountants and financial professionals looking to advance their career opportunities in less than a year is the CMA, or Certified Management Accountants, program. The US CMA course is the top qualification in the subject of accounting and management, and it is offered by the Institute of Management Accountants (IMA) in almost 150 countries. The Institute of Cost Accountants of India oversees the CMA program in India. The CMA program offered…",
+                "readmore": "Read More",
+                "img": "/img/satyam_jain.webp",
+                "path":"",
+                "topic": "US CMA Study Tips & Strategies by",
+                "name": "Satyam Jain - US CMA Alumni"
+            },
+            {
+                "id": 2,
+                "spanheading": "Accounting | ",
+                "smallheading": "December 22, 2022",
+                "subheading": "CPA Exam : 2024 will be a game changer!",
+                "description": "The CPA Evolution Initiative has announced a transition policy for the 2024 CPA exam. There has been a lot of discussion about the evolution of CPAs. Let’s take a closer look at what it means: A survey of over 1200 accounting department chairs asks if data analytics, IT auditing, and cyber security are taught in their accounting programs. According to the gap analysis results, 64% of schools teach data analytics, 40% teach predictive analysis, 23%…",
+                "readmore": "Read More",
+                "img": "/img/Vipin.webp",
+                "path":"",
+                "topic": "US CMA Study Tips & Strategies by",
+                "name": ""
+            }
+        ]
+    }
+}

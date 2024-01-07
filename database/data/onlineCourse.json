@@ -1,0 +1,22 @@
+{
+    "cpaPage":{
+        "mainheading":"Buy Hassle-Free Online Courses",
+        "cards":[
+            {
+                "image":"/img/cpa/course01.jpg",
+                "subheading":"Enhance your US CPA Exam/License eligibility with a Bridge Course",
+                "path":"/academy"
+            },
+            {
+                "image":"/img/cpa/course02.jpg",
+                "subheading":"Increase the possibilities of landing your dream job with Simandhar Saamarth",
+                "path":"/academy"
+            },
+            {
+                "image":"/img/cpa/course03.jpg",
+                "subheading":"Ace your career progression with Simandhar’s Data Analytics course",
+                "path":"/academy"
+            }
+        ]
+    }
+}

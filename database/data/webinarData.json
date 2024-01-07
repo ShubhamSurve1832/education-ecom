@@ -1,0 +1,50 @@
+{
+    "webinar": {
+        "webinars": [
+            {
+                "id":0,
+                "desktopBanner": "img/EA-Next-Step_Landing-Page_desktop.jpg",
+                "bannerAlt":"CPA Webinar",
+                "mobileBanner": "img/EA-Next-Step_Landing-Page_Mobile.jpg",
+                "path": " https://us02web.zoom.us/webinar/register/1816941773762/WN_EKq85dfTRtq_MPoa4KuNTg",
+                "heading1":"webinar heading",
+                "description":"webinar description",
+                "heading2":"Webinar Heading 02",
+                "list":[
+                    {
+                        "id":0,
+                        "icon":"/img/earth.png",
+                        "title":"Global Recognition",
+                        "iconAlt":"icon alt"
+                    },
+                    {
+                        "id":1,
+                        "icon":"/img/visa.png",
+                        "title":"Migration with Ease",
+                        "iconAlt":"icon alt"
+                    },
+                    {
+                        "id":3,
+                        "icon":"/img/stats.png",
+                        "title":"Hikes in Salary",
+                        "iconAlt":"icon alt"
+                    },
+                    {
+                        "id":4,
+                        "icon":"/img/success.png",
+                        "title":"Huge Career Opportunities",
+                        "iconAlt":"icon alt"
+                    },
+                    {
+                        "id":5,
+                        "icon":"/img/badge.png",
+                        "title":"Highly-acclaimed Certification",
+                        "iconAlt":"icon alt"
+                    }
+                ]
+                
+            }
+            
+        ]
+    }
+}

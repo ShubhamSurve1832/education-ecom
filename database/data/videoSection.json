@@ -1,0 +1,218 @@
+{
+    "homePage": {
+        "mainheading": "From the Students Who Made It Big",
+        "videos": [
+            {
+                "id": 1,
+                "path": "https://www.youtube.com/embed/_xwBjbmRpl0"
+            },
+            {
+                "id": 2,
+                "path": "https://www.youtube.com/embed/OjXrESqsjPg"
+            },
+            {
+                "id": 3,
+                "path": "https://www.youtube.com/embed/3JQXsk7JKFI"
+            }
+        ],
+        "tabs": [
+            {
+                "id": 1,
+                "path": "/img/trishala_maniar_banner.webp",
+                "heading": "How Our Alumnus Won The Elijah Watt Sells Award | US CPA | US CPA COURSE| US CPA EXAM",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 2,
+                "path": "/img/sirin_rathod_banner.webp",
+                "heading": "CPA in 6 months| Sirin Rathod- CPA alumnus|Placement at Big 4| CPA course |",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 3,
+                "path": "/img/surya_teja_banner.webp",
+                "heading": "How Teja, CPA alumni from Simandhar got placed in the USA after pursuing MASTER'S| CPA USA jobs",
+                "span": "CPA Alumni"
+            }
+        ]
+    },
+    "eaPage": {
+        "mainheading": "Our Enrolled Agent Testimonial Videos",
+        "videos": [
+            {
+                "id": 1,
+                "path": "https://www.youtube.com/embed/m9ooIMD7AhY?"
+            },
+            {
+                "id": 2,
+                "path": "https://www.youtube.com/embed/q-kDdm-Oc6g?"
+            },
+            {
+                "id": 3,
+                "path": "https://www.youtube.com/embed/xswj0ntMdTY?"
+            }
+        ],
+        "tabs": [
+            {
+                "id": 1,
+                "path": "/img/ea_video_thumb01.webp",
+                "heading": "How Vijay passed EA in three months from Simandhar and got placed in EY",
+                "span": ""
+            },
+            {
+                "id": 2,
+                "path": "/img/ea_video_thumb02.webp",
+                "heading": "Enrolled Agent (EA) Course Elgibility Exam Fees Salary in India",
+                "span": ""
+            },
+            {
+                "id": 3,
+                "path": "/img/ea_video_thumb03.webp",
+                "heading": "How Peuli Passed Enrolled Agent Exam| EA Course Details",
+                "span": ""
+            }
+        ]
+    },
+    "testimonialVideoPage": {
+        "mainheading": "Featured Testimonials",
+        "videos": [
+            {
+                "id": 1,
+                "path": "https://www.youtube.com/embed/k9ospIXoezI?"
+            },
+            {
+                "id": 2,
+                "path": "https://www.youtube.com/embed/-4lCp8HYBVM?"
+            },
+            {
+                "id": 3,
+                "path": "https://www.youtube.com/embed/lf0ohX8r2w0?"
+            }
+        ],
+        "tabs": [
+            {
+                "id": 1,
+                "path": "/img/ashwini_video_thumb.webp",
+                "heading": "How Ashwini Cleared US CPA Exams in just 8 Months | Simandhar Education",
+                "span": "Interview"
+            },
+            {
+                "id": 2,
+                "path": "/img/anju_video_thumb.webp",
+                "heading": "Anju Journey from CA Inter to US CPA | Placed in BDO- Texas,USA",
+                "span": "Placed at BDO - Texas, USA"
+            },
+            {
+                "id": 3,
+                "path": "/img/video_thumb03.jpg",
+                "heading": "Bcom to US CMA & US CPA Mani Venkat - Simandhar Alumni",
+                "span": "Placed at EY (above 9 LPA package)"
+            }
+        ]
+    },
+    "corporateJourneyPage": {
+        "mainheading": "",
+        "videos": [
+            {
+                "id": 1,
+                "path": "https://www.youtube.com/embed/_xwBjbmRpl0?"
+            },
+            {
+                "id": 2,
+                "path": "https://www.youtube.com/embed/juMQqBGsgp8?"
+            }
+        ],
+        "tabs": [
+            {
+                "id": 1,
+                "path": "/img/corporateJourneyThumbnail.webp",
+                "heading": "Corporate Journey - Simandhar Education CPA USA and CMA USA",
+                "span": "Interview"
+            },
+            {
+                "id": 2,
+                "path": "/img/JourneywithCorporateleaders.webp",
+                "heading": "Our Co founder CA,CPA Sripal Jain Journey with Corporate leaders | CPA | Big 4 | CPA course",
+                "span": "Placed at BDO - Texas, USA"
+            }
+        ]
+    },
+    "cmaAlumini": {
+        "mainheading": "Our Alumni Videos",
+        "videos": [
+            {
+                "id": 1,
+                "path": "https://www.youtube.com/embed/O1YucctIg1M"
+            },
+            {
+                "id": 2,
+                "path": "https://www.youtube.com/embed/3Bh7EAOYhB8"
+            },
+            {
+                "id": 3,
+                "path": "https://www.youtube.com/embed/9IhQyxAZH3k"
+            },
+            {
+                "id":4,
+                "path":"https://www.youtube.com/embed/1QJzrbegqeA"
+            },
+            {
+                "id":5,
+                "path":"https://www.youtube.com/embed/0h-sx0LaPP0"
+            },
+            {
+                "id":6,
+                "path":"https://www.youtube.com/embed/QspTnx-4sCQ"
+            },
+            {
+                "id":7,
+                "path":"https://www.youtube.com/embed/WIrgOGZ5zIY"
+            }
+
+        ],
+        "tabs": [
+            {
+                "id": 1,
+                "path": "/img/Shwetha.webp",
+                "heading": "Shwetha (Asian Gold Medalist in Roller Hockey ) to US CMA|Placed at Knowcraft Analytics|CMA| CMA USA",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 2,
+                "path": "/img/madhu.webp",
+                "heading": "US CMA | CMA course | US CMA course details | CMA eligibility | Simandhar CMA alumni | Exam tips",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 3,
+                "path": "/img/prerana.webp",
+                "heading": "How Our CMA Alumni Prerana Tiwari cleared US CMA Exams | US CMA Alumni | Simandhar Education",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 4,
+                "path": "/img/aniket.webp",
+                "heading": "How Aniket got placed in Knowcraft Analytics within 2 weeks of clearing US CMA Exams | US CMA Alumni",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 5,
+                "path": "/img/satyam.webp",
+                "heading": "How Satyam Got Placed at Knowcraft Analytics within 2 weeks of acing US CMA | Simandhar CMA Alumni",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 6,
+                "path": "/img/harita.webp",
+                "heading": "How Haritha US CMA Alumni Got Placed at Invesco after Clearing the US CMA Exam |Simandhar Education",
+                "span": "CPA Alumni"
+            },
+            {
+                "id": 7,
+                "path": "/img/krushita.webp",
+                "heading": "How Kruthika cleared both US CMA Exams in just 7 Months | US CMA Alumni | Simandhar Education",
+                "span": "CPA Alumni"
+            }
+        ]
+    }
+}

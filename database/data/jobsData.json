@@ -1,0 +1,90 @@
+{
+    "cpaJobs": {
+        "mainheading": "US CPA Job opportunities",
+        "lists": [
+            {
+                "id":1,
+                "image":"/img/cpnAlu/brand1.webp",
+                "title":" Financial Analyst",
+                "discription":"Be part of the high paced Financial Planning and Analysis team whose mission is to successfully deliver"
+            },
+            {
+                "id":2,
+                "image":"/img/cpnAlu/brand1.webp",
+                "title":" Assistant Manager",
+                "discription":"Be part of the high paced Financial Plannin and Analysis team whose mission is to successfully deliver"
+            },
+            {
+                "id":3,
+                "image":"/img/cpnAlu/brand3.webp",
+                "title":" Staff Accoutant",
+                "discription":"Here's an opportunity to work with one of the most innovative machinery organization!!"
+            },
+            {
+                "id":4,
+                "image":"/img/cpnAlu/brand4.webp",
+                "title":" Payroll Analyst",
+                "discription":"Carry a deep understanding of Accounts and Payroll? Here's something exciting for you!!"
+            },
+            {
+                "id":5,
+                "image":"/img/cpnAlu/brand5.webp",
+                "title":" Reconciliation System",
+                "discription":"Here's an opportunity to work with one of the Insurance giants if you're a pro in account reconciliation!!"
+            },
+            {
+                "id":6,
+                "image":"/img/cpnAlu/brand6.webp",
+                "title":"BU Finance Controller",
+                "discription":"Do you have a sound knowledge of accounting fundamentals and finance management?"
+            }
+        ]
+    },
+    "cmaJobs": {
+        "mainheading": "US CMA Job opportunities",
+        "lists": [
+            {
+                "id":1,
+                "image":"/img/cpnAlu/brand4.webp",
+                "title":" Reconciliation System",
+                "discription":"Here's an opportunity to work with one of the Insurance giants if you're a pro in account reconciliation!!",
+                "jobAlt": "SimandharCorporate partener"
+            },
+            {
+                "id":2,
+                "image":"/img/cpnAlu/brand5.webp",
+                "title":" BU Finance Controller",
+                "discription":"Do you have a sound knowledge of accounting fundamentals and finance management?",
+                "jobAlt": "SimandharCorporate partener"
+            },
+            {
+                "id":3,
+                "image":"/img/cpnAlu/brand6.webp",
+                "title":"Payroll Analyst",
+                "discription":"Carry a deep understanding of Accounts and Payroll? Here's something exciting for you!!",
+                "jobAlt": "SimandharCorporate partener"
+            },
+            {
+                "id":4,
+                "image":"/img/cpnAlu/brand7.webp",
+                "title":"Assistant manager - Finance MIS",
+                "discription":"Show off your Accounting and Acumen skills!! Lead your team to success!!",
+                "jobAlt": "SimandharCorporate partener"
+            },
+            {
+                "id":5,
+                "image":"/img/cpnAlu/brand8.webp",
+                "title":"Sr. Associate",
+                "discription":"Here's one of the Logistics gaints looking out for candidates expertised in reconciliation!! Hurry up!!",
+                "jobAlt": "SimandharCorporate partener"
+            },
+            {
+                "id":6,
+                "image":"/img/cpnAlu/brand9.webp",
+                "title":"Tax Analyst",
+                "discription":"Do you have a hands-on exposure to US taxation system? Here's a good news for you!!",
+                "jobAlt": "SimandharCorporate partener"
+            }
+        ]
+    }
+}

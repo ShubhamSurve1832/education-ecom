@@ -1,0 +1,230 @@
+{
+    "corporateEventData": {
+        "mainheading": "",
+        "description": "Our days are usuallyfill={true} sizes='100vw' ed with energetic webinar sessions by corporate honchos and CXO’s. Numerous webinar sessions have helped our clients know the intricacies and nuances of the domains they plan on joining after finishing their course with us.",
+        "lists": [
+            {
+                "id": 1,
+                "image": "/img/cpa-inner/Corporate1.webp",
+                "path": "https://www.linkedin.com/feed/update/urn:li:activity:6697838626438549504"
+            },
+            {
+                "id": 2,
+                "image": "/img/cpa-inner/Corporate2.webp",
+                "path": "https://www.linkedin.com/feed/update/urn:li:activity:6695311083189735425"
+            },
+            {
+                "id": 3,
+                "image": "/img/cpa-inner/Corporate3.webp",
+                "path": "https://www.linkedin.com/feed/update/urn:li:activity:6695714250670919681"
+            },
+            {
+                "id": 4,
+                "image": "/img/cpa-inner/Corporate4.webp",
+                "path": "https://www.linkedin.com/feed/update/urn:li:activity:6685462912884191233/"
+            },
+            {
+                "id": 5,
+                "image": "/img/cpa-inner/Corporate5.webp",
+                "path": "https://www.linkedin.com/posts/simandhar-education_session-cpa-uscpa-activity-6675074247783796736-5MFf/"
+            },
+            {
+                "id": 6,
+                "image": "/img/cpa-inner/Corporate6.webp",
+                "path": "https://www.linkedin.com/posts/simandhar-education_session-dataanalytics-cpa-activity-6675356550338625536-FanH"
+            },
+            {
+                "id": 7,
+                "image": "/img/cpa-inner/Corporate7.webp",
+                "path": "https://www.linkedin.com/posts/simandhar-education_cia-significance-dataanalytics-activity-6672459075156094976-dt6z"
+            },
+            {
+                "id": 8,
+                "image": "/img/cpa-inner/Corporate8.webp",
+                "path": "https://www.linkedin.com/posts/ashu-rathor-cpa-mba-ms-6616a56_it-was-great-to-talk-to-cpa-aspirant-students-activity-6659877304459759617-1UXC/"
+            },
+            {
+                "id": 9,
+                "image": "/img/cpa-inner/Corporate9.webp",
+                "path": "https://www.linkedin.com/posts/simandhar-education_covid19-growth-motivation-activity-6669595205957771264-NdR9/"
+            },
+            {
+                "id": 10,
+                "image": "/img/cpa-inner/Corporate10.webp",
+                "path": "https://www.linkedin.com/posts/nidhi-agarwal-5442451_leadershipsession-activity-6690842061945487360-lxZR/"
+            },
+            {
+                "id": 11,
+                "image": "/img/cpa-inner/Corporate11.webp",
+                "path": "https://www.linkedin.com/feed/update/urn:li:activity:6715601311401963520"
+            },
+            {
+                "id": 12,
+                "image": "/img/cpa-inner/Corporate12.webp",
+                "path": "https://www.linkedin.com/feed/update/urn:li:activity:6717690762479452160"
+            }
+        ]
+    },
+    "corporateWebinardata": {
+        "mainheading": "Recorded Webinars",
+        "lists": [
+            {
+                "id": 1,
+                "thumbnail": "/img/cpa-inner/Corporate_video1.webp",
+                "path": "https://www.youtube.com/embed/gN5AmCbBjnE?autoplay=1&mute=1",
+                "title": "CPA Exam in India Now Permanent | NASBA Host Sripal Jain| CPA Evaluation | CPA changes 2024 | CPA US1"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/cpa-inner/Corporate_video2.webp",
+                "path": "https://www.youtube.com/embed/doHw6XHSw34?autoplay=1&mute=1",
+                "title": "CPA Canada | US CPA Opportunities in Canada |Canada CPA vs US CPA | MRA CPA Canada | CPA course |CPA"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/cpa-inner/Corporate_video3.webp",
+                "path": "https://www.youtube.com/embed/Lx0Wf2b-5I0?autoplay=1&mute=1",
+                "title": "First Ever US CPA Session by AICPA & NASBA in India – Hosted by Simandhar Education"
+            },
+            {
+                "id": 3,
+                "thumbnail": "/img/cpa-inner/Corporate_video4.jpg",
+                "path": "https://www.youtube.com/embed/1qx15yBUiXU?autoplay=1&mute=1",
+                "title": "Future of finance session | Corporate leaders | IMA | CMA USA | Simandhar Education| Becker"
+            }
+        ]
+    },
+    "JobcorporateWebinardata": {
+        "mainheading": "Corporate Testimonials",
+        "lists": [
+            {
+                "id": 1,
+                "thumbnail": "/img/cpa-inner/Corporate_video1.webp",
+                "path": "",
+                "title": "CPA Exam in India Now Permanent | NASBA Host Sripal Jain| CPA Evaluation | CPA changes 2024 | CPA US"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/cpa-inner/Corporate_video2.webp",
+                "path": "",
+                "title": "CPA Exam in India Now Permanent | NASBA Host Sripal Jain| CPA Evaluation | CPA changes 2024 | CPA US"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/cpa-inner/Corporate_video3.webp",
+                "path": "",
+                "title": "CPA Exam in India Now Permanent | NASBA Host Sripal Jain| CPA Evaluation | CPA changes 2024 | CPA US"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/cpa-inner/Corporate_video3.webp",
+                "path": "",
+                "title": "CPA Exam in India Now Permanent | NASBA Host Sripal Jain| CPA Evaluation | CPA changes 2024 | CPA US"
+            }
+        ]
+    },
+    "allWebinars": {
+        "lists": [
+            {
+                "id": 1,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars1.webp",
+                "path": "https://www.youtube.com/embed/lkCB1IgY_NQ?autoplay=1&mute=1",
+                "title": "Value Creation and Unlocking - Role of Finance Professionals | Vaibhav Manek | Co-founder | KNAV"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars2.webp",
+                "path": "https://www.youtube.com/embed/D-S0_CDUTLw?autoplay=1&mute=1",
+                "title": "Indian Economy - Way Ahead || Ananth Narayan - Associate professor- SPJIMR , Independent Director - SBI Capital Market"
+            },
+            {
+                "id": 3,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars3.webp",
+                "path": "https://www.youtube.com/embed/DH7SYL-02Do?autoplay=1&mute=1",
+                "title": "COVID-19 impact on Financial Statements & Business | Nishant Mohta (CFO, Invesco)"
+            },
+            {
+                "id": 4,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars4.webp",
+                "path": "https://www.youtube.com/embed/WlsrLNkj-JM?autoplay=1&mute=1",
+                "title": "Alternative Investment Fund Session by Ankit Singhvi || Simandhar Education"
+            },
+            {
+                "id": 5,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars5.webp",
+                "path": "https://www.youtube.com/embed/hq0SLwsEbjg?autoplay=1&mute=1",
+                "title": "Role of Finance in Changing World | Jayesh Sanghrajka ( EVP and Deputy CFO, Infosys) | CPA Scope"
+            },
+            {
+                "id": 6,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars6.webp",
+                "path": "https://www.youtube.com/embed/nyBwvB80yPw?autoplay=1&mute=1",
+                "title": "Data Streaming & Future of Auditing | Mr Shailesh Haribhakti (CA, Board & Audit Chair, ID) || US CPA"
+            },
+            {
+                "id": 7,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars7.webp",
+                "path": "https://www.youtube.com/embed/DMCbfk0LrCo?autoplay=1&mute=1",
+                "title": "Session on Digitization by Reliance CFO - Rajneesh Jain || Simandhar Education"
+            },
+            {
+                "id": 8,
+                "thumbnail": "/img/cpa-inner/Corporate_webinars8.webp",
+                "path": "https://www.youtube.com/embed/fQnRDLaDDZ8?autoplay=1&mute=1",
+                "title": "Digitisation and impact on Finance Functions | Rohit Bhagade, CFO - SAP India | US CPA Opportunities"
+            }
+        ]
+    },
+    "cpaCurriculum":{
+        "mainheading":"CPA Curriculum",
+        "lists":[
+           {
+            "id":1,
+            "thumbnail":"/img/CPAfar.webp",
+            "path":"https://www.youtube.com/embed/mSBI-Y_MBdY?autoplay=1&mute=1",
+            "title":"CPA FAR"
+           }, 
+           {
+            "id":2,
+            "thumbnail":"/img/CPAaud.webp",
+            "path":"https://www.youtube.com/embed/Wx_Aa75P73s?autoplay=1&mute=1",
+            "title":"CPA AUD"
+           },
+           {
+            "id":3,
+            "thumbnail":"/img/CPAreg.webp",
+            "path":"https://www.youtube.com/embed/a23VlMV-9z4?autoplay=1&mute=1",
+            "title":"CPA REG"
+           },
+           {
+            "id":4,
+            "thumbnail":"/img/CPAbec.webp",
+            "path":"https://www.youtube.com/embed/5DDZU-eKLxY?autoplay=1&mute=1",
+            "title":"CPA BEC"
+           }
+        ]
+    },
+    "topperJourneyData": {
+        "mainheading": "Hear what topper has to say about his journey",
+        "lists": [
+            {
+                "id": 1,
+                "thumbnail": "/img/Simandhar-CPA-Student-trishala-does-it-again.webp",
+                "path": "https://www.youtube.com/embed/lS_nagRP5d8?autoplay=1&mute=1",
+                "title": "Simandhar CPA Student does it again |CPA Watt Sells Winner | Trishla | CPA Course"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/CPA-kavneet-Successful-Journey-with-Simandhar.webp",
+                "path": "https://www.youtube.com/embed/Y2wReiomuV4?autoplay=1&mute=1",
+                "title": "CPA Course | Watt Sells Award Winner 2021 | CPA Successful Journey with Simandhar Education"
+            },
+            {
+                "id": 2,
+                "thumbnail": "/img/Q&A-with-Dhruv-(SimandharCPAWattsellsawardwinner).webp",
+                "path": "https://www.youtube.com/embed/rPS0jKiSA94?autoplay=1&mute=1",
+                "title": "Q&A with Dhruv (Simandhar CPA Watt sells award winner ) FAR -98, BEC-98, REG-97, AUD-91 | CPA exam| CPA"
+            }
+        ]
+    }
+}

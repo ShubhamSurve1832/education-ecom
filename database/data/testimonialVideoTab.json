@@ -1,0 +1,468 @@
+{
+    "testimonialTab": {
+        "mainheading":"test",
+        "corporateTitle": [
+            {
+                "id": 1,
+                "title": "US CPA"
+            },
+            {
+                "id": 2,
+                "title": "US CMA"
+            },
+            {
+                "id": 3,
+                "title": "EA"
+            }
+        ],
+        "testimonialVideoData": [
+            {
+                "id": 1,
+                "lists": [
+                    {
+                        "id": 1,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-1.webp",
+                        "path":"https://www.youtube.com/embed/TjJq0KrUxLI?autoplay=1&mute=1",
+                        "title":"How B.Com grad, Jay, passed CPA exam & Placed at BDO | CPA course, Syllabus| CPA study strategies"
+                    },
+                    {
+                        "id": 2,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-2.webp",
+                        "path":"https://www.youtube.com/embed/p-Mca6p2ggA?autoplay=1&mute=1",
+                        "title":"CA inter to CPA |Placed in Deloitte| Shravan |CPA alumni|CPA course| CA drop out |CPA job placement"
+                    },
+                    {
+                        "id": 3,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-3.webp",
+                        "path":"https://www.youtube.com/embed/3rEAl2T7M98?autoplay=1&mute=1",
+                        "title":"CA final to CPA| Cleared CPA exam in 9 months| Supriya | Simandhar CPA alumni| CPA course | CPA"
+                    },
+                    {
+                        "id": 4,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-4.webp",
+                        "path":"https://www.youtube.com/embed/lf0ohX8r2w0?autoplay=1&mute=1",
+                        "title":"Bcom to US CMA & US CPA| Mani Venkat- Simandhar Alumni| Placed at EY (above 9 LPA package)"
+                    },
+                    {
+                        "id": 5,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-5.webp",
+                        "path":"https://www.youtube.com/embed/G9lJA4mvG8s?autoplay=1&mute=1",
+                        "title":"Bcom to CPA journey of Venkat - Simandhar Alumni | 4 Tips to Pass US CPA Exam in India | CPA Course"
+                    },
+                    {
+                        "id": 6 ,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-6.webp",
+                        "path":"https://www.youtube.com/embed/RGUZIXsoA8I?autoplay=1&mute=1",
+                        "title":"CPA - Creating A Path Abroad | Sharanya Rajagopal | Assistant Manager at GT | US CPA Course | Simandhar Educatio?autoplay=1&mute=1n"
+                    },
+                    {
+                        "id": 7 ,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-7.webp",
+                        "path":"https://www.youtube.com/embed/rQC-22ynjeM?autoplay=1&mute=1",
+                        "title":"CPA - Creating A Path Abroad | Varshitha Nadipineni | Corporate Tax Associate | US CPA Course | Simandhar Educatio?autoplay=1&mute=1n"
+                    },
+                    {
+                        "id": 8 ,
+                        "img":"/img/cpa-inner/CPA-Thumbnails/thumbnail-8.webp",
+                        "path":"https://www.youtube.com/embed/RGUZIXsoA8I?autoplay=1&mute=1",
+                        "title":"Bcom to US CPA Journey of Namrata Jain | Simandhar CPA Alumni |CPA course |CPA exams | CPA result"
+                    },
+                    {
+                        "id": 9,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-9.webp",
+                        "path":"https://www.youtube.com/embed/ipngF6Du6VQ?autoplay=1&mute=1",
+                        "title":"Sarika Dudela, US CPA Alumni, shares her journey of success | US CPA Course | Simandhar Education"
+                    },
+                    {
+                        "id": 10,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-10.webp",
+                        "path":"https://www.youtube.com/embed/RBV8lZcoBWs?autoplay=1&mute=1",
+                        "title":"Journey of Pracheth Reddy from CA to US #CPA & getting placed at EY |CPA Job Opportunity | Simandhar Education"
+                    },
+                    {
+                        "id": 11,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-11.webp",
+                        "path":"https://www.youtube.com/embed/kAXqK69_QAw?autoplay=1&mute=1",
+                        "title":"How Pracheth Scored 96 in REG, FAR 94,BEC and Aud 92 | CPA | CPA Course | Simandhar Education"
+                    },
+                    {
+                        "id": 12,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-12.webp",
+                        "path":"https://www.youtube.com/embed/UBi0HpmKm_M?autoplay=1&mute=1",
+                        "title":"Hear out from Becker Product head Angeline brown on Sripal Jain & Simandhar| CPA | CPA Course | CMA"
+                    },
+                    {
+                        "id": 13,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-13.webp",
+                        "path":"https://www.youtube.com/embed/DcTy2S9n62g?autoplay=1&mute=1",
+                        "title":"Sneak-Peek into Our Alumni Meet 2021 | CPA Alumni | CPA | CPA Course |CMA US | Simandhar Education"
+                    },
+                    {
+                        "id": 14,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-14.webp",
+                        "path":"https://www.youtube.com/embed/Rr70MpXHzQ8?autoplay=1&mute=1",
+                        "title":"How Pratyush Being B.com passed US CPA exam in india | CPA | CPA Course | Simandhar Education"
+                    },
+                    {
+                        "id": 15,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-15.webp",
+                        "path":"https://www.youtube.com/embed/3hcS-7-_3-s?autoplay=1&mute=1",
+                        "title":"How Akanksha being CA inter Passed US CPA exam in India | CPA | CPA Course | Simandhar Education"
+                    },
+                    {
+                        "id": 16,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-16.webp",
+                        "path":"https://www.youtube.com/embed/-aHCdJd7DtA?autoplay=1&mute=1",
+                        "title":"How Reshma being B.Com and Working professional passed US CPA Exam in india | CPA Course |CPA |AICPA"
+                    },
+                    {
+                        "id": 17,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-17.webp",
+                        "path":"https://www.youtube.com/embed/2Ra9ZsXmD8I?autoplay=1&mute=1",
+                        "title":"How Wasim cleared US CPA Exam as working professional | CPA | CPA Course | Simandhar Education"
+                    },
+                    {
+                        "id": 18,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-18.webp",
+                        "path":"https://www.youtube.com/embed/yA78By_XwBw?autoplay=1&mute=1",
+                        "title":"Is CPA possible with Bcom/ MBA /CA drop out /CA| Hear from Simandhar CPA Alumnis |CPA|CPA course |US"
+                    },
+                    {
+                        "id": 19,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-19.webp",
+                        "path":"https://www.youtube.com/embed/pqVqncJweKM?autoplay=1&mute=1",
+                        "title":"CPA Exam tips by Trupti Agarwal| Placed in JP Morgan |Simandhar CPA Alumni|US CPA |CPA exam in India"
+                    },
+                    {
+                        "id": 20,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-20.webp",
+                        "path":"https://www.youtube.com/embed/k9ospIXoezI?autoplay=1&mute=1",
+                        "title":"How Ashwini Cleared US CPA Exams in just 8 Months | US CPA Alumni | US CPA | Simandhar Education"
+                    },
+                    {
+                        "id": 21,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-21.webp",
+                        "path":"https://www.youtube.com/embed/ENLJm83x-2U?autoplay=1&mute=1",
+                        "title":"Can a Bcom do US CPA ? | US CPA course details | CPA course | CPA | US CPA | Exam tips by Teja, Bcom"
+                    },
+                    {
+                        "id": 22,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-22.webp",
+                        "path":"https://www.youtube.com/embed/G5UTAcstmCI?autoplay=1&mute=1",
+                        "title":"CA Inter to US CPA Topper | Kavneet Wattsells Award Winner 2021 | Simandhar Education"
+                    },
+                    {
+                        "id": 23,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-23.webp",
+                        "path":"https://www.youtube.com/embed/La_LetdmSkY?autoplay=1&mute=1",
+                        "title":"Simandhar Edu Co-Founder - Sripal Jain’s Visit to AICPA Headquarters in New York |US CPA |CPA course"
+                    },
+                    {
+                        "id": 24,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-24.webp",
+                        "path":"https://www.youtube.com/embed/Y2wReiomuV4?autoplay=1&mute=1",
+                        "title":"CPA Course | Watt Sells Award Winner 2021 | CPA Successful Journey with Simandhar Education"
+                    },
+                    {
+                        "id": 25,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-25.webp",
+                        "path":"https://www.youtube.com/embed/La_LetdmSkY?autoplay=1&mute=1",
+                        "title":"How Preethi,US CPA Aspirant got job in Adobe | Importance of SEC | Simandhar Sessions- US CPA,US CMA"
+                    },
+                    {
+                        "id": 26,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-26.webp",
+                        "path":"https://www.youtube.com/embed/9ov4YP23ZEk?autoplay=1&mute=1",
+                        "title":"What is the Salary For US CPA Freshers in INDIA & USA | Hear from Sripal Jain-CA, CPA | CPA Salary"
+                    },
+                    {
+                        "id": 27,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-27.webp",
+                        "path":"https://www.youtube.com/embed/1NKwSmvwGBg?autoplay=1&mute=1",
+                        "title":"How Preethi,US CPA Aspirant got job in Adobe | Importance of SEC | Simandhar Sessions- US CPA,US CMA"
+                    },
+                    {
+                        "id": 28,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-28.webp",
+                        "path":"https://www.youtube.com/embed/-4lCp8HYBVM?autoplay=1&mute=1",
+                        "title":"Anju Journey from CA Inter to US CPA to getting job in USA|Placed in BDO- Texas,USA by Simandhar|CPA"
+                    },
+                    {
+                        "id": 29,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-29.webp",
+                        "path":"https://www.youtube.com/embed/71yOc2_LCjE?autoplay=1&mute=1",
+                        "title":"How Anju US CPA Top scorer ( BEC-98, REG-97 AUD-93, FAR -89) got job in USA | CA drop out |CPA jobs"
+                    },
+                    {
+                        "id": 30,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-30.webp",
+                        "path":"https://www.youtube.com/embed/kXXJqai41do?autoplay=1&mute=1",
+                        "title":"How Anuj passed US CPA at age of 40 & Got a job at EY | CA Drop out |CPA alumni | Simandhar | CPA"
+                    },
+                    {
+                        "id": 31,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-31.webp",
+                        "path":"https://www.youtube.com/embed/gN5AmCbBjnE?autoplay=1&mute=1",
+                        "title":"CPA Exam in India Now Permanent | NASBA Host Sripal Jain | CPA course| CPA Course Details, Syllabus"
+                    },
+                    {
+                        "id": 32,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-32.webp",
+                        "path":"https://www.youtube.com/embed/GSkjdoEcuPg?autoplay=1&mute=1",
+                        "title":"How Amruta US CPA Alumni from Simandhar cleared 4 CPA exams in 7 months | CPA Success Story | US CPA"
+                    },
+                    {
+                        "id": 33,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-33.webp",
+                        "path":"https://www.youtube.com/embed/c-_uDEAzxsw?autoplay=1&mute=1",
+                        "title":"How Seetha Ravi passed CPA at age of 52 |Passed within 8 months| Simandhar US CPA alumni |CPA course "
+                    },
+                    {
+                        "id": 34,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-34.webp",
+                        "path":"https://www.youtube.com/embed/t2fbqVGg0Ds?autoplay=1&mute=1",
+                        "title":"How Priya Gupta Simandhar Alumni Cleared All Her US CPA Exams | US CPA Licensure |Best CPA Institute"
+                    },
+                    {
+                        "id": 35,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-35.webp",
+                        "path":"https://www.youtube.com/embed/uOGe3_nJw20?autoplay=1&mute=1",
+                        "title":"CPA results | Simandhar Student's Happy Moments | US CPA Results Day Happiness | Simandhar | US CPA"
+                    },
+                    {
+                        "id": 36,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-36.webp",
+                        "path":"https://www.youtube.com/embed/NJ3xyp8TBPk?autoplay=1&mute=1",
+                        "title":"Anuj Khare CA Inter to US CPA journey | Becker CPA Review | CPA Exam Results |Simandhar CPA Alummi"
+                    },
+                    {
+                        "id": 37,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-37.webp",
+                        "path":"https://www.youtube.com/embed/CwSk4hnsi5E?autoplay=1&mute=1",
+                        "title":"How Akshay got Placed in Amazon | CPA Top Scorer- FAR 98, REG 94,BEC 96 | CPA Alumni | CPA Placement"
+                    },
+                    {
+                        "id": 38,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-38.webp",
+                        "path":"https://www.youtube.com/embed/Q81FyGH647w?autoplay=1&mute=1",
+                        "title":"Mahant Bhatt Placed at Accenture even before completing US CPA | Simandhar Success Story | US CPA"
+                    },
+                    {
+                        "id": 39,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-39.webp",
+                        "path":"https://www.youtube.com/embed/rRpdHR5m5rA?autoplay=1&mute=1",
+                        "title":"How Purvi Parikh Passed US CPA in 6 months | Tips for clearing US CPA Exam | Simandhar Alumni"
+                    },
+                    {
+                        "id": 40,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-40.webp",
+                        "path":"https://www.youtube.com/embed/Ff591Y41Xos?autoplay=1&mute=1",
+                        "title":"How Seetha Ravi started CPA at age of 52 |Mother's day Special| Scored 92 in REG|Simandhar aspirant"
+                    },
+                    {
+                        "id": 41,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-41.webp",
+                        "path":"https://www.youtube.com/embed/U3cFauNZm8I?autoplay=1&mute=1",
+                        "title":"How Ankit passed US CPA while working full time | Started CPA post 8 years | Simandhar Alumni"
+                    },
+                    {
+                        "id": 42,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-42.webp",
+                        "path":"https://www.youtube.com/embed/bhhpRlxu7fI?autoplay=1&mute=1",
+                        "title":"How Shrikesh Lahoti got placed in Accenture | Simandhar CPA journey | US CPA Aspirant | CPA USA"
+                    },
+                    {
+                        "id": 43,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-43.webp",
+                        "path":"https://www.youtube.com/embed/BJE_4DI4m8s?autoplay=1&mute=1",
+                        "title":"How Laxmikant Karanjkar Scored 97 in BEC,92 in FAR , 87 in AUD and 89 in REG | Simandhar CPA Alumni"
+                    },
+                    {
+                        "id": 44,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-44.webp",
+                        "path":"https://www.youtube.com/embed/fyO2eVHu4Zw?autoplay=1&mute=1",
+                        "title":"CA Inter Shriya Passed US CPA within 10 months | Placed in Deloitte | CPA USA Study Tips | Simandhar"
+                    },
+                    {
+                        "id": 45,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-45.webp",
+                        "path":"https://www.youtube.com/embed/DB2BA8UJuuM?autoplay=1&mute=1",
+                        "title":"Bobby Agarwal Certified US CPA | Placed in Standard Chartered Bank | Success Story | Simandhar"
+                    },
+                    {
+                        "id": 46,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-46.webp",
+                        "path":"https://www.youtube.com/embed/CX7UI0baqpU?autoplay=1&mute=1",
+                        "title":"How Nitin Goyal Passed US CPA Exam & Placed In EY GDS | Student Success Story | Simandhar Education"
+                    },
+                    {
+                        "id": 47,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-47.webp",
+                        "path":"https://www.youtube.com/embed/rtDhDuI60m8?autoplay=1&mute=1",
+                        "title":"Failed in CA Inter, Now Placed at 8 lacs after US CPA | Surya Teja Simandhar CPA Alumni | CPA | ICAI"
+                    },
+                    {
+                        "id": 48,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-48.webp",
+                        "path":"https://www.youtube.com/embed/WQvCZcDtGX8?autoplay=1&mute=1",
+                        "title":"How Tirth got placed in PWC SDC While Pursuing US CPA Course through Simandhar | CPA Exam | US CPA"
+                    },
+                    {
+                        "id": 49,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-49.webp",
+                        "path":"https://www.youtube.com/embed/4aFG-8SpXX0?autoplay=1&mute=1",
+                        "title":"Why Simandhar for US CPA l Placed in Accenture | Richa Tharad | US CPA Exam in India | Simandhar Education"
+                    },
+                    {
+                        "id": 50,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-50.webp",
+                        "path":"https://www.youtube.com/embed/0gJ7YxO-g64?autoplay=1&mute=1",
+                        "title":"How a Working Mother Cleared the US CPA Exam? | Simandhar CPA Alumni | Vinita Agarwal US CPA"
+                    },
+                    {
+                        "id": 51,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-51.webp",
+                        "path":"https://www.youtube.com/embed/hgXHzQPkmPA?autoplay=1&mute=1",
+                        "title":"CA inter to US CPA | Journey of Rashmi Karan | Simandhar CPA alumni| US CPA Exam Details"
+                    },
+                    {
+                        "id": 52,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-54.webp",
+                        "path":"https://www.youtube.com/embed/23GmV-Lab8c?autoplay=1&mute=1",
+                        "title":"How Jiten Passed US CPA Exam & Placed In Amazon | US CPA Course Tips | CPA Exam Preparation"
+                    },
+                    {
+                        "id": 53,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-55.webp",
+                        "path":"https://www.youtube.com/embed/_MHrZ1Bm9Os?autoplay=1&mute=1",
+                        "title":"How Mohit after Failing REG joined Simandhar and Passed US CPA Exam | CPA Job Placement | PWC"
+                    },
+                    {
+                        "id": 54,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-53.webp",
+                        "path":"https://www.youtube.com/embed/gKcwyeDTwYo?autoplay=1&mute=1",
+                        "title":"CA Inter to US CPA journey | Surya Teja | Simandhar CPA Alumni | CPA Prep Strategy | US CPA Course"
+                    },
+                    {
+                        "id": 55,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-56.webp",
+                        "path":"https://www.youtube.com/embed/wFyMBS1cIig?autoplay=1&mute=1",
+                        "title":"How Simandhar Alumni got placed in Big4 & MNC`s during Pandemic Situation |US CPA CMA Job Placement"
+                    },
+                    {
+                        "id": 56,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-57.webp",
+                        "path":"https://www.youtube.com/embed/MvsCdHe81nY?autoplay=1&mute=1",
+                        "title":"CPA course | CPA | Non Accounting student can pass CPA | B tech to CPA journey |CPA exam in india |"
+                    },
+                    {
+                        "id": 57,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-58.webp",
+                        "path":"https://www.youtube.com/embed/5eusWL4Z44M?autoplay=1&mute=1",
+                        "title":"How Shradha got Placed at EY after Passing US CPA in 9 months from Simandhar | CPA Job Opportunities"
+                    },
+                    {
+                        "id": 58,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-60.webp",
+                        "path":"https://www.youtube.com/embed/Ow_suzlE0nw?autoplay=1&mute=1",
+                        "title":"How I scored 94 in REG | CPA USA 2019 | Simandhar Education student | Interview"
+                    },
+                    {
+                        "id": 59,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-61.webp",
+                        "path":"https://www.youtube.com/embed/bJV71_aEAeo?autoplay=1&mute=1",
+                        "title":"How Bhuvaneshwari from World bank passed US CPA | Full time working & US CPA | Simandhar CPA Alumni"
+                    },
+                    {
+                        "id": 60,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-62.webp",
+                        "path":"https://www.youtube.com/embed/gfhO5gSCbCA?autoplay=1&mute=1",
+                        "title":"From 98 in REG, 95 in BEC and 91 in FAR to getting placed at EY | US CPA Placement | Simandhar Edu"
+                    },
+                    {
+                        "id": 61,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-63.webp",
+                        "path":"https://www.youtube.com/embed/4ZcLBZHau6g?autoplay=1&mute=1",
+                        "title":"From CA drop out to Becoming US CPA | Placed at EY | Simandhar CPA Alumni | CPA USA | CPA course"
+                    },
+                    {
+                        "id": 62,
+                        "img": "/img/cpa-inner/CPA-Thumbnails/thumbnail-64.webp",
+                        "path":"https://www.youtube.com/embed/j9k39w_7Krc?autoplay=1&mute=1",
+                        "title":"CPA Result + Placement = Double Celebration | Simandhar Education | JP Morgan |Swetha US CPA Alumni"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "lists": [
+                    {
+                        "id": 1,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-1.webp",
+                        "path":"https://www.youtube.com/embed/lf0ohX8r2w0?autoplay=1&mute=1",
+                        "title":"Bcom to US CMA & US CPA| Mani Venkat- Simandhar Alumni| Placed at EY (above 9 LPA package)"
+                    },
+                    {
+                        "id": 2,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-2.webp",
+                        "path":"https://www.youtube.com/embed/O1YucctIg1M?autoplay=1&mute=1",
+                        "title":"Shwetha (Asian Gold Medalist in Roller Hockey ) to US CMA|Placed at Knowcraft Analytics|CMA| CMA USA"
+                    },
+                    {
+                        "id": 3,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-3.webp",
+                        "path":"https://www.youtube.com/embed/O_xeb3N_79A?autoplay=1&mute=1",
+                        "title":"Journey of Ashrith from B.Com to clearing US CMA | US CMA | CMA Course | CMA Exams"
+                    },
+                    {
+                        "id": 4,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-4.webp",
+                        "path":"https://www.youtube.com/embed/UBi0HpmKm_M?autoplay=1&mute=1",
+                        "title":"Hear out from Becker Product head Angeline brown on Sripal Jain & Simandhar| CPA | CPA Course | CMA"
+                    },
+                    {
+                        "id": 5,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-5.webp",
+                        "path":"https://www.youtube.com/embed/DcTy2S9n62g?autoplay=1&mute=1",
+                        "title":"Sneak-Peek into Our Alumni Meet 2021 | CPA Alumni | CPA | CPA Course |CMA US | Simandhar Education"
+                    },
+                    {
+                        "id": 6,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-6.webp",
+                        "path":"https://www.youtube.com/embed/1NKwSmvwGBg?autoplay=1&mute=1",
+                        "title":"How Preethi,US CPA Aspirant got job in Adobe | Importance of SEC | Simandhar Sessions- US CPA,US CMA"
+                    },
+                    {
+                        "id": 7,
+                        "img": "/img/cpa-inner/CMA-Thumbnails/thumbnail-7.webp",
+                        "path":"https://www.youtube.com/embed/wFyMBS1cIig?autoplay=1&mute=1",
+                        "title":"How Simandhar Alumni got placed in Big4 & MNC`s during Pandemic Situation |US CPA CMA Job Placement"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "lists": [
+                    {
+                        "id": 1,
+                        "img": "/img/cpa-inner/EA-Thumbnails/Thumbnail-1.webp",
+                        "path":"https://www.youtube.com/embed/q-kDdm-Oc6g?autoplay=1&mute=1",
+                        "title":"B.com to EA successful journey of Pankhuri Nathani getting placed at KPMG | Enrolled Agent Jobs asdd"
+                    },
+                    {
+                        "id": 2,
+                        "img": "/img/ea_video_thumb03.webp",
+                        "path":"https://www.youtube.com/embed/xswj0ntMdTY?autoplay=1&mute=1",
+                        "title":"How Peuli Passed Enrolled Agent Exam| EA Course Details"
+                    },
+                    {
+                        "id": 3,
+                        "img": "/img/cpa-inner/EA-Thumbnails/Thumbnail-3.webp",
+                        "path":"https://www.youtube.com/embed/m9ooIMD7AhY?autoplay=1&mute=1",
+                        "title":"How Vijay passed EA in three months from Simandhar and got placed in EY? | Enrolled Agent Course"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "CPAalumni": {
+        "title": "Simandhar's Alumni & Placements",
+        "link": "https://www.youtube.com/embed/9zAlSa6qeEQ"
+    },
+    "CMAalumni": {
+        "title": "Course Video Presentation",
+        "link": "https://www.youtube.com/embed/3PF810UZdYM"
+    },
+    "cpaAlumniCard": [
+        {
+            "name": "Apoorv Khobare",
+            "img": "/img/cpnAlu/archiv1.webp",
+            "description": " Cleared US CPA exams in 2022"
+        },
+        {
+            "name": "Suzanne Mariyam Shaji",
+            "img": "/img/cpnAlu/archiv2.webp",
+            "description": " Cleared US CPA exams in 2022"
+        },
+        {
+            "name": " Mehak Wadhwa",
+            "img": "/img/cpnAlu/archiv3.webp",
+            "description": " Cleared US CPA exams in 2022"
+        }
+    ],
+    "cpaAlumniCard1":[
+        {
+            "name": "Apoorv Khobareree",
+            "img": "/img/cpnAlu/archiv1.webp",
+            "description": " Cleared US CPA exams in 2022",
+            "company":"/img/cpnAlu/company1.webp",
+            "path":""
+        },
+        {
+            "name": "Suzanne Mariyam Shajiii",
+            "img": "/img/cpnAlu/archiv2.webp",
+            "description": " Cleared US CPA exams in 2022",
+            "company":"/img/cpnAlu/company2.webp",
+            "path":""
+        },
+        {
+            "name": " Mehak Wadhwaaa",
+            "img": "/img/cpnAlu/archiv3.webp",
+            "description": " Cleared US CPA exams in 2022",
+            "company":"/img/cpnAlu/company3.webp",
+            "path":""
+        }
+    ],
+     "cmaAlumniCard": [
+        {
+            "name": "Ankur Yadav",
+            "img": "/img/cpnAlu/ankur-yadav.webp",
+            "description": " US CMA, Bangalore, India",
+            "company":"Infosys"
+        },
+        {
+            "name": "Nitya Sai T",
+            "img": "/img/cpnAlu/nitya-sai-t.webp",
+            "description": "US CMA, Hyderabad, India",
+            "company":"Virtusa"
+        },
+        {
+            "name": " Surey Akaash",
+            "img": "/img/cpnAlu/Surey Akaash.webp",
+            "description": "US CMA, Hyderabad, India",
+            "company":"Dupont"
+        },
+        {
+            "name": " Satyam Jain",
+            "img": "/img/cpnAlu/Satyam Jain.webp",
+            "description": "US CMA, Hyderabad, India",
+            "company":"Knowcraft Analytics"
+        },
+        {
+            "name": "Kruthika MS",
+            "img": "/img/cpnAlu/kruthika-ms.webp",
+            "description": "US CMA, Bangalore, India",
+            "company":"BDO Rise"
+        },
+        {
+            "name": "Aniket Salvi",
+            "img": "/img/cpnAlu/aniket-salvi.webp",
+            "description": "US CMA, Mumbai, India",
+            "company":"Knowcraft Analytics"
+        },
+        {
+            "name": "Vaishakh Udaybhanu",
+            "img": "/img/cpnAlu/Vaishakh Udaybhanu.webp",
+            "description": "US CMA, Mumbai, India",
+            "company":"Knowcraft Analytics"
+        },
+        {
+            "name": "Madhu Mamidala",
+            "img": "/img/cpnAlu/madhu-mamidala.webp",
+            "description": "US CMA, Hyderabad, India",
+            "company":"Invesco"
+        },
+        {
+            "name": "Trupti Agarwal",
+            "img": "/img/cpnAlu/Trupti Agarwal.webp",
+            "description": "US CMA, US CPA, Hyderabad, India",
+            "company":"J.P Morgan"
+        },
+        {
+            "name": "Krishna Kamal",
+            "img": "/img/cpnAlu/krishna-kamal.webp",
+            "description": "Hyderabad, India",
+            "company":"Invesco"
+        },
+        {
+            "name": "Sayeed Saleem Ahmed",
+            "img": "/img/cpnAlu/Sayeed Saleem Ahmed.webp",
+            "description": "US CMA Hyderabad, India",
+            "company":"Invesco"
+        },
+        {
+            "name": "Althi Haritha",
+            "img": "/img/cpnAlu/althi-haritha.webp",
+            "description": "US CMA Hyderabad, India",
+            "company":"Invesco"
+        },
+        {
+            "name": "Abdul Wadood Khan",
+            "img": "/img/cpnAlu/abdul-wadood-khan.webp",
+            "description": "US CMA Hyderabad, India",
+            "company":"Deloitte"
+        },
+        {
+            "name": "Mohammad Sameeruddin",
+            "img": "/img/cpnAlu/mohammad-sameeruddin.webp",
+            "description": "Hyderabad, India",
+            "company":"Wipro"
+        },
+        {
+            "name": "Adil Ayoob",
+            "img": "/img/cpnAlu/adil-ayoob.webp",
+            "description": "US CMA, Kerala, India",
+            "company":"Virtusa"
+        },
+        {
+            "name": "G Gokul",
+            "img": "/img/cpnAlu/g-gokul.webp",
+            "description": "US CMA, Kerala, India",
+            "company":"Pegasystems"
+        },
+        {
+            "name": "Peter Kattady",
+            "img": "/img/cpnAlu/peter-kattady.webp",
+            "description": "US CMA, Kerala, India",
+            "company":"Evosys"
+        },
+        {
+            "name": "Hima Bindu",
+            "img": "/img/cpnAlu/hima-bindu.webp",
+            "description": "US CMA, Hyderabad, India",
+            "company":"Virtusa"
+        },
+        {
+            "name": "Sri Durga",
+            "img": "/img/cpnAlu/Ellipse_36.webp",
+            "description": "US CMA, Hyderabad, India",
+            "company":"Invesco"
+        },
+        {
+            "name": "Sakshi Kothari",
+            "img": "/img/cpnAlu/Sakshi Kothari.webp",
+            "description": "CMA Aspirant, Hyderabad, India",
+            "company":"Citrin Cooperman"
+        },
+        {
+            "name": "Rahul Pillai",
+            "img": "/img/cpnAlu/rahul-pillai.webp",
+            "description": "US CPA and US CMA Aspirant, Kerala, India",
+            "company":"Cognizant"
+        },
+        {
+            "name": "Waseem Akram",
+            "img": "/img/cpnAlu/Waseem Akram.webp",
+            "description": "CMA Aspirant, Bangalore, India",
+            "company":"ABB"
+        }
+    ]
+}

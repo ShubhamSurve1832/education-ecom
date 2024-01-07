@@ -1,0 +1,114 @@
+{
+    "ExpPlaceInfo": {
+        "mainheading": "We believe that education has the ability to transform every individual. Today's students don’t just need information to be educated; they need an overall transformation to be successful in life.",
+        "list": [
+            {
+                "title": "Students",
+                "value": "10000+"
+            },
+            {
+                "title": "Faculties",
+                "value": "15+"
+            },
+            {
+                "title": "Corporate Tie-Ups",
+                "value": "40+"
+            },
+            {
+                "title": "Placements",
+                "value": "500+"
+            }
+        ]
+    },
+    "TESection": {
+        "mainheading": "“Education is not information, it's transformation\"",
+        "name": "Sripal jain (CA, CPA), Co-Founder - Simandhar Education",
+        "image":"/img/transform_education.webp",
+        "alt":"Mr. Sripal Jain (CA, CPA)",
+        "title": "Transforming Education",
+        "description": "The purpose of Simandhar Education is to transform the way education is being perceived. We believe that not just a professional degree or diploma, but the overall grooming of students also plays a vital role in making them successful in the corporate world.",
+        "listheading": "Simandhar Education is India's Most Trusted Training Institute for US CPA, US CMA, Diploma IFRS, and Enrolled Agent.",
+        "lists": [
+            {
+                "item": "We are the Channel Partner of AICPA"
+            },
+            {
+                "item": "Silver Partner of ACCA"
+            },
+            {
+                "item": "Official partners of Becker Professional Education"
+            },
+            {
+                "item": "Approved partner of the Enrolled Agent in India"
+            }
+        ]
+    },
+    "MVPdata": [
+        {
+            "path": "/img/mission.png",
+            "title": "Our Mission",
+            "desc": "To provide highest standards of learning which can transform lives of students and professionals."
+        },
+        {
+            "path": "/img/vision.png",
+            "title": "Our Vision",
+            "desc": "To upskill the students and professionals to make them adapt to continuous learning."
+        },
+        {
+            "path": "/img/purpose.png",
+            "title": "Our Purpose",
+            "desc": "We believe that education has the ability to transform every individual."
+        }
+    ],
+    "princeData": {
+        "mainheading": "",
+        "list": [
+            {
+                "heading": "P",
+                "title": "PASSION   ",
+                "desc": "Passion in every work we do for our students and team members."
+            },
+            {
+                "heading": "R",
+                "title": "RESPONSIBLE",
+                "desc": "We take responsibility for every issue and solve them by collaborating."
+            },
+            {
+                "heading": "I",
+                "title": "INTEGRITY",
+                "desc": "We like doing every work with utmost integrity, respect, and care."
+            },
+            {
+                "heading": "N",
+                "title": "NURTURING",
+                "desc": "We believe in Nurturing individuals with different initiatives and grooming them."
+            },
+            {
+                "heading": "C",
+                "title": "COMMITTED",
+                "desc": "We believe in Commitment to continuous learning and updating ourselves with the latest changes."
+            },
+            {
+                "heading": "E",
+                "title": "ENERGY",
+                "desc": "We believe in quickly moving out from our mistakes and surrounding ourselves with positive energy to add value to our stakeholders."
+            }
+        ]
+    },
+    "partnerData": {
+        "list": [
+            {
+                "path": "/img/becker-logo.jpg",
+                "imgAlt":"Becker, OUR OFFICIAL PARTNERS qqqq"
+            },
+            {
+                "path": "/img/Aicpa.jpg",
+                "imgAlt":"ALCPA, OUR OFFICIAL PARTNERS"
+            },
+            {
+                "path": "/img/BDO_logo.jpg",
+                "imgAlt":"BDO, OUR OFFICIAL PARTNERS"
+            }
+        ]
+    }
+}

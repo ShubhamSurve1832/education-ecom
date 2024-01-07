@@ -1,0 +1,181 @@
+{
+    "cpaPage":{
+        "members":[
+            {
+                "id":0,
+                "name":"Sripal Jain",
+                "image":"/img/cpnAlu/faculty1.webp",
+                "post":"Founder,Chairman",
+                "course":"CA, CPA USA",
+                "link":"https://www.linkedin.com/in/sripal-jain-ca-cpa-8274a535/",
+                "alt": "Sripal Jain, Founder,Chairman CA, CPA USA"
+            },
+            {
+                "id":1,
+                "name":"Akshay Jaiswal",
+                "image":"/img/cpnAlu/faculty10.png",
+                "post":"Lead Instructor ",
+                "course":"CA (AIR), US CPA (94%)",
+                "link":"https://www.linkedin.com/in/akshay-jaiswal-ca-cpa-48086447/recent-activity/all/",
+                "alt": "Akshay Jaiswal  Lead Instructor CA (AIR), US CPA (94%)"
+            },
+            {
+                "id":2,
+                "name":"Suraj Lakhotia",
+                "image":"/img/cpnAlu/faculty2.webp",
+                "post":"Senior Instructor",
+                "course":"CA (AIR 2), CIMA (UK)",
+                "link":"https://www.linkedin.com/in/surajlakhotia/",
+                "alt": "Suraj Lakhotia, Senior Instructor CA (AIR 2), CIMA (UK)"
+            },
+            {
+                "id":3,
+                "name":"Karan B Nathwani",
+                "image":"/img/cpnAlu/faculty3.webp",
+                "post":"Senior Instructor",
+                "course":" CA,IIM(I),CISA & CCSK",
+                "link":"https://www.linkedin.com/in/karan-nathwani-ca-cisa-a9bb063a/",
+                "alt": "Karan B Nathwani, Senior Instructor CA,IIM(I),CISA & CCSK"
+            },
+            {
+                "id":4,
+                "name":"Amit Kumar Gupta",
+                "image":"/img/cpnAlu/faculty4.webp",
+                "post":"Instructor",
+                "course":"ACA, ACS, CMA",
+                "link":"https://www.linkedin.com/in/amit-kumar-gupta-8937a21b/",
+                "alt": "Amit Kumar Gupta, Instructor ACA, ACS, CMA"
+            },
+            {
+                "id":5,
+                "name":"Heena Vithlani",
+                "image":"/img/cpnAlu/faculty5.webp",
+                "post":"Instructor",
+                "course":"B.Com, CA, CPA USA",
+                "link":"https://www.linkedin.com/in/heena-vithlani-91b71b36/",
+                "alt": "Heena Vithlani, Instructor B.Com, CA, CPA USA"
+            },
+            {
+                "id":6,
+                "name":"Dhanashree Kshirsagar",
+                "image":"/img/cpnAlu/faculty6.webp",
+                "post":"Instructor",
+                "course":"B.Com, CA, CPA USA",
+                "link":"https://www.linkedin.com/in/dhanashree-k-61a71130/",
+                "alt": "Dhanashree Kshirsagar, Instructor B.Com, CA, CPA USA"
+            },
+            {
+                "id":7,
+                "name":"Surinder Kaur",
+                "image":"/img/cpnAlu/faculty7.webp",
+                "post":"Instructor",
+                "course":"B.Com, CPA USA",
+                "link":"https://www.linkedin.com/in/surinder-kaur-us-cpa-73a0a866/",
+                "alt": "Surinder Kaur, Instructor B.Com, CPA USA"
+            },
+            {
+                "id":8,
+                "name":"Sudha Murthy",
+                "image":"/img/cpnAlu/faculty8.webp",
+                "post":"Lead Instructor ",
+                "course":"CA, AUD & CIA",
+                "link":"https://www.linkedin.com/in/sudha-murthy-5088882b",
+                "alt": "Sudha Murthy, Lead Instructor CA, AUD & CIA"
+            },
+            {
+                "id":9,
+                "name":"Geetanjali Garg Singla",
+                "image":"/img/cpnAlu/faculty9.webp",
+                "post":"Lead Instructor ",
+                "course":"US CMA-US CPA, CA(ICAI)",
+                "link":"https://www.linkedin.com/in/geetanjali-ca-cpa-1521a219/",
+                "alt": "Geetanjali Garg Singla Lead InstructorUS CMA-US CPA, CA(ICAI)"
+            }
+        ]
+    },
+    "cmaPage":{
+        "members":[
+            {
+                "id":0,
+                "name":"Sripal Jain",
+                "image":"/img/cpnAlu/faculty1.webp",
+                "post":"Founder,Chairman",
+                "course":"CA, CPA USA",
+                "link":"https://www.linkedin.com/in/sripal-jain-ca-cpa-8274a535/",
+                "alt": "Sripal Jain, Founder,Chairman CA, CPA USA"
+            },
+            {
+                "id":1,
+                "name":"Suraj Lakhotia",
+                "image":"/img/cpnAlu/faculty2.webp",
+                "post":"Senior Instructor",
+                "course":"CA (AIR 2), CIMA (UK)",
+                "link":"https://www.linkedin.com/in/surajlakhotia/",
+                "alt": "Suraj Lakhotia, Senior Instructor CA (AIR 2), CIMA (UK)"
+            },
+            {
+                "id":2,
+                "name":"Karan B Nathwani",
+                "image":"/img/cpnAlu/faculty3.webp",
+                "post":"Senior Instructor",
+                "course":" CA,IIM(I),CISA & CCSK",
+                "link":"https://www.linkedin.com/in/karan-nathwani-ca-cisa-a9bb063a/",
+                "alt": "Karan B Nathwani, Senior Instructor CA,IIM(I),CISA & CCSK"
+            },
+            {
+                "id":3,
+                "name":"Amit Kumar Gupta",
+                "image":"/img/cpnAlu/faculty4.webp",
+                "post":"Instructor",
+                "course":"ACA, ACS, CMA",
+                "link":"https://www.linkedin.com/in/amit-kumar-gupta-8937a21b/",
+                "alt": " Amit Kumar Gupta, Instructor ACA, ACS, CMA"
+            },
+            {
+                "id":4,
+                "name":"Heena Vithlani",
+                "image":"/img/cpnAlu/faculty5.webp",
+                "post":"Instructor",
+                "course":"B.Com, CA, CPA USA",
+                "link":"https://www.linkedin.com/in/heena-vithlani-91b71b36/",
+                "alt": "Heena Vithlani, Instructor B.Com, CA, CPA USA"
+            },
+            {
+                "id":5,
+                "name":"Dhanashree Kshirsagar",
+                "image":"/img/cpnAlu/faculty6.webp",
+                "post":"Instructor",
+                "course":"B.Com, CA, CPA USA",
+                "link":"https://www.linkedin.com/in/dhanashree-k-61a71130/",
+                "alt": "Dhanashree Kshirsagar, Instructor B.Com, CA, CPA USA"
+            },
+            {
+                "id":6,
+                "name":"Surinder Kaur",
+                "image":"/img/cpnAlu/faculty7.webp",
+                "post":"Instructor",
+                "course":"B.Com, CPA USA",
+                "link":"https://www.linkedin.com/in/surinder-kaur-us-cpa-73a0a866/",
+                "alt": "Surinder Kaur, Instructor B.Com, CPA USA"
+            },
+            {
+                "id":7,
+                "name":"Sudha Murthy",
+                "image":"/img/cpnAlu/faculty8.webp",
+                "post":"Lead Instructor ",
+                "course":"CA, AUD & CIA",
+                "link":"https://www.linkedin.com/in/sudha-murthy-5088882b",
+                "alt": "Sudha Murthy, Lead Instructor CA, AUD & CIA"
+            },
+            {
+                "id":8,
+                "name":"Geetanjali Garg Singla",
+                "image":"/img/cpnAlu/faculty9.webp",
+                "post":"Lead Instructor ",
+                "course":"US CMA-US CPA, CA(ICAI)",
+                "link":"https://www.linkedin.com/in/geetanjali-ca-cpa-1521a219/",
+                "alt": "Lead Instructor US CMA-US CPA, CA(ICAI)"
+            }
+        ]
+    }
+}

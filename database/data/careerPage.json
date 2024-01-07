@@ -1,0 +1,398 @@
+[
+    {
+        "careerCard": [
+            {
+                "id": 1,
+                "data": {
+                    "mainheading": "Sr. SEO Specialist",
+                    "subheading": "Experience - 2 to 8 years",
+                    "description": "Description",
+                    "jobDescription": "Sr. SEO Specialist to coordinate SEO efforts, including onsite and offsite optimization and keyword expansion research. You'll also oversee paid search campaigns to ensure their success.",
+                    "lists": [
+                        {
+                            "id": 1,
+                            "title": "Responsibilities",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Making calls to give course details and enroll them."
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Do regular follow ups on probables data"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Deal with pending payments of there enrollments"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Provide guidance on exam process."
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Participate in events in corporates sessions."
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Requirements",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Customer service /sales experience minimum 2-3years."
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Knowledge of standard and current SEO practices"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Good written and excell communication skills"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Corporate experience added advantage"
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Fluent in English, Hindi, Telugu"
+                                },
+                                {
+                                    "id": 6,
+                                    "item": "Excellent communication skills and Strong organizational and leadership skills"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Experience",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "2 to 3 Years"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "Education",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Graduation ( Minimum )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "data": {
+                    "mainheading": "Academic Counselor",
+                    "subheading": "Experience - 1 to 8 years",
+                    "description": "Description",
+                    "jobDescription": "We are looking for an analytical and perceptive professional who is a skilled communicator and able to collaborate leads. Current knowledge of handling sales . Your goal will be to ensure our client's profitability.",
+                    "lists": [
+                        {
+                            "id": 1,
+                            "title": "Responsibilities",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Making calls to give course details and enroll them."
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Do regular follow ups on probables data"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Deal with pending payments of there enrollments"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Provide guidance on exam process."
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Participate in events in corporates sessions."
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Requirements",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Customer service /sales experience minimum 2-3years."
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Knowledge of standard and current SEO practices"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Good written and excell communication skills"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Corporate experience added advantage"
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Fluent in English, Hindi, Telugu"
+                                },
+                                {
+                                    "id": 6,
+                                    "item": "Excellent communication skills and Strong organizational and leadership skills"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Experience",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "2 to 3 Years"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "Education",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Graduation ( Minimum )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "data": {
+                    "mainheading": "Digital Marketing",
+                    "subheading": "Experience - 2 to 8 years",
+                    "description": "Description",
+                    "jobDescription": "We are looking for an experienced Email Marketing Executive to join our Digital Marketing team! As an Email Marketing Executive, you will be responsible for planning and developing our overall email marketing strategy & execution, ensuring that the business goals are met.",
+                    "lists": [
+                        {
+                            "id": 1,
+                            "title": "Responsibilities",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Execute email marketing campaigns including setup and design, content creation, proofreading, testing, approvals, scheduling and implementation"
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Perform database segmentation, identify target audiences, create email lists, purge non-deliverable addresses, opt-outs and recipients unlikely to engage"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Ensure that email creative is visually compelling and on-brand, with appropriate communication"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Manage CRM and other marketing tools to ensure that actions taken on emails (form submissions, registrations) trigger the proper workflows - automated email confirmations, notifications, etc."
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Track, analyze and report metrics of email campaign performance and provide recommendations for improvement"
+                                },
+                                {
+                                    "id": 6,
+                                    "item": "A/B test subject lines and creative and build winning attributes into future email campaigns"
+                                },
+                                {
+                                    "id": 7,
+                                    "item": "Use UTM tracking & review email heatmaps for improved email performance"
+                                },
+                                {
+                                    "id": 8,
+                                    "item": "Create and maintain email marketing calendar"
+                                },
+                                {
+                                    "id": 9,
+                                    "item": "Work with internal teams to make sure content is relevant and meaningful"
+                                },
+                                {
+                                    "id": 10,
+                                    "item": "Monitor email marketing activity company-wide to ensure consistency, alignment and reduce over-emailing"
+                                },
+                                {
+                                    "id": 11,
+                                    "item": "Ensure we keep our email sender score/domain authority within recommended levels"
+                                },
+                                {
+                                    "id": 12,
+                                    "item": "Create and implement email policies and best practice"
+                                },
+                                {
+                                    "id": 13,
+                                    "item": "Implement automated nurture and drip campaigns to keep subscribers engaged"
+                                },
+                                {
+                                    "id": 14,
+                                    "item": "Plan, execute & experiment multi-touch email campaigns to increase sales funnel velocity and opportunity conversio"
+                                },
+                                {
+                                    "id": 15,
+                                    "item": "Work with relevant third-party publications to manage and coordinate paid email campaigns."
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Requirements",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Customer service /sales experience minimum 2-3years."
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Knowledge of standard and current SEO practices"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Good written and excell communication skills"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Corporate experience added advantage"
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Fluent in English, Hindi, Telugu"
+                                },
+                                {
+                                    "id": 6,
+                                    "item": "Excellent communication skills and Strong organizational and leadership skills"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Experience",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "2 to 3 Years"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "Education",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Graduation ( Minimum )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "data": {
+                    "mainheading": "Student Engagement",
+                    "subheading": "Experience - 1 to 8 years",
+                    "description": "Description",
+                    "jobDescription": "We are looking for an experienced  Student Engagement Associate",
+                    "lists": [
+                        {
+                            "id": 1,
+                            "title": "Responsibilities",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Dealing with the study material dispatching to the students who have enrolled forthe respective program."
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Checking and maintaining the books inventory."
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Creating and providing the login credentials of the Simandhar & Becker studysoftware"
+                                },
+                                {
+                                    "id": 4,
+                                    "item": "Manage CRM and other marketing tools to ensure that actions taken on emails (form submissions, registrations) trigger the proper workflows - automated email confirmations, notifications, etc."
+                                },
+                                {
+                                    "id": 5,
+                                    "item": "Sharing the links to the students to join the relevant Telegram group of Simandhar group for students to join in."
+                                },
+                                {
+                                    "id": 6,
+                                    "item": "Dealing with the pending payments ofstudents and updating the CRM tool regarding the details."
+                                },
+                                {
+                                    "id": 7,
+                                    "item": "Taking up feedback calls to the studentsregarding the process orientation."
+                                },
+                                {
+                                    "id": 8,
+                                    "item": "Scheduling classes in accordance with the availability of the faculty."
+                                },
+                                {
+                                    "id": 9,
+                                    "item": "Posting all the updates and necessary changed to the relevant students"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Requirements",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Good communication"
+                                },
+                                {
+                                    "id": 2,
+                                    "item": "Customer centric"
+                                },
+                                {
+                                    "id": 3,
+                                    "item": "Ability to work with the team and problem solving"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Experience",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "0 to 5 Years"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "Education",
+                            "innerList": [
+                                {
+                                    "id": 1,
+                                    "item": "Graduation ( Minimum )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

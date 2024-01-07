@@ -1,0 +1,75 @@
+{
+    "cpaPage": {
+        "mainheading": "US CPA Home",
+        "path":"/course/cpa",
+        "lists": [
+            {
+                "path": "/course/cpa/breaking-news",
+                "title": "CPA 2024"
+            },
+            {
+                "path": "/course/cpa/canada",
+                "title": "Canada"
+            },
+           
+            {
+                "path": "/course/cpa/bridge-course",
+                "title": "Bridge Course"
+            },
+            {
+                "path": "/course/cpa/watt-sells-award-winners",
+                "title": "Elijah Watt Sells Award"
+            },
+            {
+                "path": "/course/cpa/cpaFees",
+                "title": "Fees"
+            },
+            {
+                "path": "/course/cpa/basicsOfAccounting",
+                "title": "Basics of Accounting"
+            },
+            {
+                "path": "/blogs/category/cpa",
+                "title": "Blog"
+            },
+            {
+                "path": "/course/cpa/job-opportunities",
+                "title": "Jobs"
+            },
+            {
+                "path": "/course/cpa/faculty",
+                "title": "Faculty"
+            }
+        ]
+    },
+    "cmaPage": {
+        "mainheading": "US CMA Home",
+        "path":"/course/cma",
+        "lists": [
+            {
+                "path": "/course/cma/breaking-news",
+                "title": "Breaking News"
+            },
+            {
+                "path": "/course/cma/syllabus",
+                "title": "Syllabus"
+            },
+            {
+                "path": "/course/cma/cmaFees",
+                "title": "Fees"
+            },
+            {
+                "path": "/blogs/category/cma",
+                "title": "Blog"
+            },
+            {
+                "path": "/course/cma/job-opportunities",
+                "title": "Jobs"
+            },
+            {
+                "path": "/course/cma/faculty",
+                "title": "Faculty"
+            }
+        ]
+    }
+}

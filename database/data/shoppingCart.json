@@ -1,0 +1,108 @@
+{
+    "shoppingPage": {
+        "mainheading": "Shopping Cart",
+        "mainheading02":" You Might also like",
+        "coureseNum": "2 Courses in Cart",
+        "coureseLists": [
+            {
+                "img": "/img/dummyCart.png",
+                "title": "US CPA (Certified Public Accountant)",
+                "review": "5",
+                "reviewNum": "20",
+                "popularity": "Most Popular",
+                "time": "3 years duration",
+                "lectures": ".29 lectures",
+                "amount": "1,29900",
+                "discount": "14500"
+            },
+            {
+                "img": "/img/dummyCart.png",
+                "title": "US CPA (Certified Public Accountant)1",
+                "review": "51",
+                "reviewNum": "20",
+                "popularity": "Most Popular",
+                "time": "3 years duration",
+                "lectures": ".29 lectures",
+                "amount": "1,2990",
+                "discount": "14500"
+            },
+            {
+                "img": "/img/dummyCart.png",
+                "title": "US CPA (Certified Public Accountant)1",
+                "review": "51",
+                "reviewNum": "20",
+                "popularity": "Most Popular",
+                "time": "3 years duration",
+                "lectures": ".29 lectures",
+                "amount": "1,2990",
+                "discount": "14500"
+            }
+        ],
+        "amountlists": [
+            {
+                "title": "Total:",
+                "finalAmount": "30000",
+                "strick": "1450",
+                "disscount": "40%",
+                "title01": "Promotions:"
+            }
+        ],
+        "likecart": [
+                {
+                    "id":1,
+                    "img":"/img/dummyCart.png",
+                    "title01":"EA (Enrolled Agent)",
+                    "review": "51",
+                    "reviewNum": "20",
+                    "time":"2 years duration",
+                    "lecture":".29 lectures",
+                    "amount":"12345",
+                    "strick":"123345"
+                },
+                {
+                    "id":2,
+                    "img":"/img/dummyCart.png",
+                    "title01":"EA (Enrolled Agent)",
+                    "review": "51",
+                    "reviewNum": "20",
+                    "time":"2 years duration",
+                    "lecture":".29 lectures",
+                    "amount":"12345",
+                    "strick":"123345"
+                },
+                {
+                    "id":3,
+                    "img":"/img/dummyCart.png",
+                    "title01":"EA (Enrolled Agent)",
+                    "review": "51",
+                    "reviewNum": "20",
+                    "time":"2 years duration",
+                    "lecture":".29 lectures",
+                    "amount":"12345",
+                    "strick":"123345"
+                },
+                {
+                    "id":4,
+                    "img":"/img/dummyCart.png",
+                    "title01":"EA (Enrolled Agent)",
+                    "review": "51",
+                    "reviewNum": "20",
+                    "time":"2 years duration",
+                    "lecture":".29 lectures",
+                    "amount":"12345",
+                    "strick":"123345"
+                },
+                {
+                    "id":5,
+                    "img":"/img/dummyCart.png",
+                    "title01":"EA (Enrolled Agent)",
+                    "review": "51",
+                    "reviewNum": "20",
+                    "time":"2 years duration",
+                    "lecture":".29 lectures",
+                    "amount":"12345",
+                    "strick":"123345"
+                }
+        ]
+    }
+}
