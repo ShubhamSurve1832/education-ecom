@@ -6,7 +6,7 @@ import Footer from "../components/footer";
 import Image from "next/image";
 import { FaAngleRight } from "react-icons/fa";
 import { AiOutlineCloseCircle } from "react-icons/ai";
-import { EnrollFormSchema } from "../job/validation/Schema";
+import { EnrollFormSchema } from "../validation/Schema";
 import { Country, State, City } from "country-state-city";
 import { Field, Form, Formik, useFormik } from "formik";
 import CheckOutPopup from "./checkout-popup";

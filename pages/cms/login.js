@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from 'next/link'
 import {urlConstants} from '../../constants/urlConstants'
 import { Field, Form, Formik, useFormik } from "formik";
-import { AdminCMSLOGIN } from "../../job/validation/Schema";
+import { AdminCMSLOGIN } from "../../validation/Schema";
 import axios from 'axios';
 import secureLocalStorage from 'react-secure-storage';
 import { useRouter } from 'next/navigation';

@@ -23,8 +23,7 @@ import {allRedirectionUrls} from '../components/all-old-to-new-url-redirection-f
 import OldToNewUrl from '../components/PageRedirection.js'
 import Head from "next/head";
 import Script from "next/script";
-import JobHeader from '../pages/job/JobHeader'
-import JobFooter from '../pages/job/JobFooter'
+
 
 
 
@@ -130,10 +129,6 @@ export default function App({ Component, pageProps }) {
             className="resp-img"
           />
         </a>
-        }
-        {
-          router.pathname.includes('/job/') &&
-          <JobHeader />
         }
         <StrictMode>
           <Provider store={store}>
