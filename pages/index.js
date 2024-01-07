@@ -23,34 +23,13 @@ const Header = dynamic(() => import('../components/Header'))
 const Footer = dynamic(() => import('../components/footer'))
 const Spinner = dynamic(() => import('../components/comman/Spinner'))
 
-// import Banner from "../home/bannerSection";
-// import Usp from "../home/uspSection";
-// import Eduction from "../home/educationSection";
-// import Programm from "../home/programmSection";
-// import Placement from "../home/placementSection";
-// import Founder from "../home/founderSection";
-// import Video from "../home/videoSection";
-// import AchieversSection from "../CPA/AchieversSection";
-// import Partner from "../home/partnerSection";
-// import Award from "../home/awardSection";
-// import ContactUs from "../home/contactUsSection";
-// import OfferSection from "../home/OfferSection";
-// import Header from "../components/Header";
-// import Footer from "../components/footer";
-// import Spinner from '../components/comman/Spinner';
 
 // Data
 import indexData from "../database/index.json";
 import { urlConstants as urlConstant } from "@/constants/urlConstants";
 
 export default function Home({ showPopup }) {
-  // const [isLoading, setIsLoading] = useState(true);
-  //  Simulate loading data
-  // useEffect(() => {
-  //   setTimeout(() => {
-  //     setIsLoading(false);
-  //   }, 2000);
-  // }, []);
+
 
 
   let gl_flag = true;
